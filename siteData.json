@@ -682,7 +682,8 @@
         "tp-week-6-define-the-mvp": "tP week 6: Define the MVP ",
         "intro-to-tp-week-6": "Intro to tP Week 6",
         "1-conceptualize-the-mvp-version": "1  Conceptualize the MVP version",
-        "2-draft-the-ug-midnight-before-the-tutorial": "2  Draft the UG  midnight before the tutorial"
+        "2-draft-the-ug-midnight-before-the-tutorial": "2  Draft the UG  midnight before the tutorial",
+        "3-set-up-the-project-repo-during-the-tutorial": "3  Set up the project repo  during the tutorial"
       },
       "headingKeywords": {}
     },
@@ -692,8 +693,9 @@
       "headings": {
         "tp-week-7-get-ready-for-iterations": "tP week 7: Get ready for iterations ",
         "intro-to-tp-week-7": "Intro to tP Week 7",
-        "1-set-up-the-project-repo-during-the-tutorial": "1  Set up the project repo  during the tutorial",
-        "2-plan-the-next-iteration-v1-0": "2  Plan the next iteration (v1.0)"
+        "1-ensure-you-know-tp-expectations": "1  Ensure you know tP expectations",
+        "2-plan-the-next-iteration-v1-0": "2  Plan the next iteration (v1.0)",
+        "3-start-the-next-iteration": "3  Start the next iteration"
       },
       "headingKeywords": {}
     },
@@ -703,9 +705,8 @@
       "headings": {
         "tp-week-8-mid-v1-0": "tP week 8: mid-v1.0 ",
         "intro-to-tp-week-8": "Intro to tP Week 8",
-        "1-ensure-you-know-tp-expectations": "1  Ensure you know tP expectations",
-        "2-start-implementing-v1-0": "2  Start implementing v1.0",
-        "3-add-some-junit-tests": "3  Add some JUnit Tests"
+        "1-start-implementing-v1-0": "1  Start implementing v1.0",
+        "2-add-some-junit-tests": "2  Add some JUnit Tests"
       },
       "headingKeywords": {}
     },
