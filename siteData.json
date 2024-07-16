@@ -573,11 +573,11 @@
         "week-3-kickoff": "Week 3 Kickoff",
         "week-4-set-direction": "Week 4 Set direction",
         "week-5-gather-requirements": "Week 5 Gather requirements",
-        "week-6-define-the-mvp": "Week 6 Define the MVP",
-        "week-7-get-ready-for-iterations": "Week 7 Get ready for iterations",
+        "week-6-define-mvp-set-up-repo": "Week 6 Define MVP, set up repo",
+        "week-7-plan-the-iteration": "Week 7 Plan the iteration",
         "w8-w9-iteration-1-v1-0": " W8   W9  Iteration 1 → v1.0",
-        "w10-w11-iteration-2-v2-0": "W10 W11 Iteration 2 → v2.0",
-        "w12-iteration-3-v2-1": "W12 Iteration 3 → v2.1"
+        "w10-w11-w12-iteration-2-v2-0": "W10 W11 W12 Iteration 2 → v2.0",
+        "w13-iteration-3-v2-1": "W13 Iteration 3 → v2.1"
       },
       "headingKeywords": {}
     },
@@ -616,7 +616,8 @@
       "headings": {
         "tp-week-12-extra-week-for-v2-0": "tP week 12: Extra week for v2.0 ",
         "intro-to-tp-week-12": "Intro to tP Week 12",
-        "1-attend-the-practical-exam-dry-run-during-the-lecture-on-fri-nov-8th-counted-for-participation": "1  Attend the practical exam dry run  During the lecture on Fri, Nov 8th  counted for participation"
+        "1-finish-any-remaining-tasks": "1 Finish any remaining  tasks",
+        "2-attend-the-practical-exam-dry-run-during-the-lecture-on-fri-nov-8th-counted-for-participation": "2  Attend the practical exam dry run  During the lecture on Fri, Nov 8th  counted for participation"
       },
       "headingKeywords": {}
     },
@@ -677,9 +678,9 @@
     },
     {
       "src": "admin/tp-w6.md",
-      "title": "Admin: tP week 6: Define the MVP",
+      "title": "Admin: tP week 6: Define MVP, set up repo",
       "headings": {
-        "tp-week-6-define-the-mvp": "tP week 6: Define the MVP ",
+        "tp-week-6-define-mvp-set-up-repo": "tP week 6: Define MVP, set up repo ",
         "intro-to-tp-week-6": "Intro to tP Week 6",
         "1-conceptualize-the-mvp-version": "1  Conceptualize the MVP version",
         "2-draft-the-ug-midnight-before-the-tutorial": "2  Draft the UG  midnight before the tutorial",
@@ -689,9 +690,9 @@
     },
     {
       "src": "admin/tp-w7.md",
-      "title": "Admin: tP week 7: Get ready for iterations",
+      "title": "Admin: tP week 7: Plan the iteration",
       "headings": {
-        "tp-week-7-get-ready-for-iterations": "tP week 7: Get ready for iterations ",
+        "tp-week-7-plan-the-iteration": "tP week 7: Plan the iteration ",
         "intro-to-tp-week-7": "Intro to tP Week 7",
         "1-ensure-you-know-tp-expectations": "1  Ensure you know tP expectations",
         "2-plan-the-next-iteration-v1-0": "2  Plan the next iteration (v1.0)",
