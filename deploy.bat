@@ -1,3 +1,3 @@
 set CACHE_DIR=cache
-rmdir -r ./cache
+RMDIR cache /S /Q
 markbind deploy

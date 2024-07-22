@@ -32,7 +32,7 @@ with(this){return _c('p',[_c('strong',[_v("Admin:")])])}
 with(this){return _c('p',[_c('strong',[_v("tP:")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('span',[_v("Finish any remaining  tasks")])])}
+with(this){return _c('li',[_c('span',[_v("Finish any remaining "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v2.0")]),_v(" tasks")])])}
 },function anonymous(
 ) {
 with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",attrs:{"aria-hidden":"true"}})]),_v(" Attend the practical exam dry run")])}
@@ -41,6 +41,6 @@ with(this){return _c('span',[_c('span',[_c('span',{staticClass:"fas fa-user",att
 with(this){return _c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" During the lecture on Fri, Nov 8th ")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Tue, 16 Jul 2024, 19:34:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Tue, 23 Jul 2024, 1:24:03 GMT+8]")])])])}
 }];
   

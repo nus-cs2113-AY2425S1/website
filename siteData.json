@@ -583,10 +583,10 @@
     },
     {
       "src": "admin/tp-w10.md",
-      "title": "Admin: tP week 10: mid-v2.0",
+      "title": "Admin: tP Week 10: mid-v2.0",
       "headings": {
         "admin-tp-deliverables-dg-tips": "  Admin  tP Deliverables → DG → Tips",
-        "tp-week-10-mid-v2-0": "tP week 10: mid-v2.0 ",
+        "tp-week-10-mid-v2-0": "tP Week 10: mid-v2.0 ",
         "intro-to-tp-week-10": "Intro to tP Week 10",
         "1-start-the-next-iteration": "1  Start the next iteration",
         "2-update-the-dg-with-design-details-important": "2  Update the DG with design details  IMPORTANT",
@@ -597,10 +597,10 @@
     },
     {
       "src": "admin/tp-w11.md",
-      "title": "Admin: tP week 11: v2.0",
+      "title": "Admin: tP Week 11: v2.0",
       "headings": {
         "admin-tp-deliverables-dg-tips": "  Admin  tP Deliverables → DG → Tips",
-        "tp-week-11-v2-0": "tP week 11: v2.0 ",
+        "tp-week-11-v2-0": "tP Week 11: v2.0 ",
         "intro-to-tp-week-11": "Intro to tP Week 11",
         "1-update-ug-and-dg": "1  Update UG and DG",
         "2-review-others-dg-during-the-tutorial-counted-for-participation": "2  Review others' DG  during the tutorial counted for participation",
@@ -612,20 +612,20 @@
     },
     {
       "src": "admin/tp-w12.md",
-      "title": "Admin: tP week 12: Extra week for v2.0",
+      "title": "Admin: tP Week 12: Extra week for v2.0",
       "headings": {
-        "tp-week-12-extra-week-for-v2-0": "tP week 12: Extra week for v2.0 ",
+        "tp-week-12-extra-week-for-v2-0": "tP Week 12: Extra week for v2.0 ",
         "intro-to-tp-week-12": "Intro to tP Week 12",
-        "1-finish-any-remaining-tasks": "1 Finish any remaining  tasks",
+        "1-finish-any-remaining-v2-0-tasks": "1 Finish any remaining v2.0 tasks",
         "2-attend-the-practical-exam-dry-run-during-the-lecture-on-fri-nov-8th-counted-for-participation": "2  Attend the practical exam dry run  During the lecture on Fri, Nov 8th  counted for participation"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/tp-w13.md",
-      "title": "Admin: tP week 13: v2.1",
+      "title": "Admin: tP Week 13: v2.1",
       "headings": {
-        "tp-week-13-v2-1": "tP week 13: v2.1 ",
+        "tp-week-13-v2-1": "tP Week 13: v2.1 ",
         "intro-to-tp-week-13": "Intro to tP Week 13",
         "1-fix-pe-d-bugs": "1  Fix PE-D bugs",
         "2-submit-final-deliverables-tue-nov-12th-14-00": "2  Submit final deliverables  Tue, Nov 12th 14:00",
@@ -641,9 +641,9 @@
     },
     {
       "src": "admin/tp-w3.md",
-      "title": "Admin: tP week 3: Kickoff",
+      "title": "Admin: tP Week 3: Kickoff",
       "headings": {
-        "tp-week-3-kickoff": "tP week 3: Kickoff ",
+        "tp-week-3-kickoff": "tP Week 3: Kickoff ",
         "intro-to-tp-week-3": "Intro to tP Week 3",
         "1-team-task-set-up-a-project-meeting-time-by-the-end-of-the-tutorial": "1  Team Task: Set up a project meeting time  by the end of the tutorial"
       },
@@ -651,9 +651,9 @@
     },
     {
       "src": "admin/tp-w4.md",
-      "title": "Admin: tP week 4: Set direction",
+      "title": "Admin: tP Week 4: Set direction",
       "headings": {
-        "tp-week-4-set-direction": "tP week 4: Set direction ",
+        "tp-week-4-set-direction": "tP Week 4: Set direction ",
         "intro-to-tp-week-4": "Intro to tP Week 4",
         "1-start-weekly-project-meetings": "1  Start weekly project meetings",
         "2-start-a-collaborative-doc-to-take-project-notes-before-the-tutorial": "2  Start a collaborative doc to take project notes  before the tutorial",
@@ -667,9 +667,9 @@
     },
     {
       "src": "admin/tp-w5.md",
-      "title": "Admin: tP week 5: Gather requirements",
+      "title": "Admin: tP Week 5: Gather requirements",
       "headings": {
-        "tp-week-5-gather-requirements": "tP week 5: Gather requirements ",
+        "tp-week-5-gather-requirements": "tP Week 5: Gather requirements ",
         "intro-to-tp-week-5": "Intro to tP Week 5",
         "1-brainstorm-user-stories-before-the-tutorial": "1  Brainstorm user stories  before the tutorial",
         "2-choose-user-stories-for-the-mvp-version-during-the-tutorial": "2  Choose user stories for the MVP version  during the tutorial"
@@ -678,9 +678,9 @@
     },
     {
       "src": "admin/tp-w6.md",
-      "title": "Admin: tP week 6: Define MVP, set up repo",
+      "title": "Admin: tP Week 6: Define MVP, set up repo",
       "headings": {
-        "tp-week-6-define-mvp-set-up-repo": "tP week 6: Define MVP, set up repo ",
+        "tp-week-6-define-mvp-set-up-repo": "tP Week 6: Define MVP, set up repo ",
         "intro-to-tp-week-6": "Intro to tP Week 6",
         "1-conceptualize-the-mvp-version": "1  Conceptualize the MVP version",
         "2-draft-the-ug-midnight-before-the-tutorial": "2  Draft the UG  midnight before the tutorial",
@@ -690,9 +690,9 @@
     },
     {
       "src": "admin/tp-w7.md",
-      "title": "Admin: tP week 7: Plan the iteration",
+      "title": "Admin: tP Week 7: Plan the iteration",
       "headings": {
-        "tp-week-7-plan-the-iteration": "tP week 7: Plan the iteration ",
+        "tp-week-7-plan-the-iteration": "tP Week 7: Plan the iteration ",
         "intro-to-tp-week-7": "Intro to tP Week 7",
         "1-ensure-you-know-tp-expectations": "1  Ensure you know tP expectations",
         "2-plan-the-next-iteration-v1-0": "2  Plan the next iteration (v1.0)",
@@ -702,9 +702,9 @@
     },
     {
       "src": "admin/tp-w8.md",
-      "title": "Admin: tP week 8: mid-v1.0",
+      "title": "Admin: tP Week 8: mid-v1.0",
       "headings": {
-        "tp-week-8-mid-v1-0": "tP week 8: mid-v1.0 ",
+        "tp-week-8-mid-v1-0": "tP Week 8: mid-v1.0 ",
         "intro-to-tp-week-8": "Intro to tP Week 8",
         "1-start-implementing-v1-0": "1  Start implementing v1.0",
         "2-add-some-junit-tests": "2  Add some JUnit Tests"
@@ -713,9 +713,9 @@
     },
     {
       "src": "admin/tp-w9.md",
-      "title": "Admin: tP week 9: v1.0",
+      "title": "Admin: tP Week 9: v1.0",
       "headings": {
-        "tp-week-9-v1-0": "tP week 9: v1.0 ",
+        "tp-week-9-v1-0": "tP Week 9: v1.0 ",
         "intro-to-tp-week-9": "Intro to tP Week 9",
         "1-make-the-code-more-defensive": "1  Make the code more defensive",
         "2-manage-the-iteration-and-deliver-v1-0-midnight-before-the-tutorial": "2  Manage the iteration, and deliver v1.0  midnight before the tutorial",
