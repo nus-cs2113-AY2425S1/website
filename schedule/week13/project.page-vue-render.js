@@ -89,6 +89,6 @@ with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal
 with(this){return _c('ul',[_c('li',[_v("Ensure you read the instructions on "),_c('strong',[_v("PE Preparation")]),_v(" (given in item "),_c('span',{staticClass:"badge rounded-pill bg-secondary p-1"},[_v("5")]),_v(" above)")]),_v(" "),_c('li',[_v("Attend the practical test, to be done during the lecture.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Tue, 30 Jul 2024, 20:21:39 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Tue, 30 Jul 2024, 20:44:12 GMT+8]")])])])}
 }];
   
