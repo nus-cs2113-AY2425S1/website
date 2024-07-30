@@ -1,0 +1,800 @@
+2024-07-28T06:35:14.948Z - info: Website generation (lazy) started at 2:34:59 pm
+2024-07-28T06:35:24.974Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-28T06:35:24.976Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-07-28T06:35:25.035Z - info: Building assets...
+2024-07-28T06:36:04.465Z - info: Assets built
+2024-07-28T06:36:04.466Z - info: Generating landing page...
+2024-07-28T06:36:05.278Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-07-28T06:36:06.404Z - info: Site data built
+2024-07-28T06:36:06.405Z - info: Website generation (lazy) complete! Total build time: 66.753s
+2024-07-28T06:36:06.881Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-07-28T06:36:06.881Z - info: Press CTRL+C to stop ...
+2024-07-28T06:37:05.046Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2024-07-28T06:37:05.621Z - info: Site data built
+2024-07-28T06:37:05.621Z - info: Lazy website regeneration complete! Total build time: 0.576s
+2024-07-28T06:46:17.515Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\testing as some of its dependencies were changed since the last visit
+2024-07-28T06:46:20.250Z - info: Site data built
+2024-07-28T06:46:20.251Z - info: Lazy website regeneration complete! Total build time: 2.737s
+2024-07-28T06:51:56.954Z - info: [2:51:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2024-07-28T06:51:56.954Z - info: Synchronizing opened pages list before reload
+2024-07-28T06:51:56.955Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T06:51:56.955Z - info: 1. se-book-adapted/chapters/testing
+2024-07-28T06:51:56.977Z - info: [2:51:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTextbookTopics-fragment.md
+2024-07-28T06:51:56.977Z - info: Synchronizing opened pages list before reload
+2024-07-28T06:51:56.977Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T06:51:56.977Z - info: 1. se-book-adapted/chapters/testing
+2024-07-28T06:51:57.984Z - info: Assets built
+2024-07-28T06:53:28.054Z - info: [2:53:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\textbookTopics-fragment.md
+2024-07-28T06:53:28.054Z - info: Synchronizing opened pages list before reload
+2024-07-28T06:53:28.054Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T06:53:28.055Z - info: 1. se-book-adapted/chapters/testing
+2024-07-28T06:53:29.275Z - info: Rebuilding 1 pages
+2024-07-28T06:53:30.297Z - info: Site data built
+2024-07-28T06:53:30.298Z - info: Pages rebuilt
+2024-07-28T06:53:30.298Z - info: Website regeneration complete! Total build time: 1.024s
+2024-07-28T06:53:36.602Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2024-07-28T06:53:36.717Z - info: Site data built
+2024-07-28T06:53:36.717Z - info: Lazy website regeneration complete! Total build time: 0.115s
+2024-07-28T06:53:39.332Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print as some of its dependencies were changed since the last visit
+2024-07-28T06:54:02.389Z - debug:  
+2024-07-28T06:54:02.423Z - debug:  
+2024-07-28T06:54:02.424Z - debug:  
+2024-07-28T06:54:02.549Z - debug:  
+2024-07-28T06:54:02.601Z - debug:  
+2024-07-28T06:54:02.718Z - debug:  
+2024-07-28T06:54:02.719Z - debug:  
+2024-07-28T06:54:02.788Z - debug:  
+2024-07-28T06:54:02.815Z - debug:  
+2024-07-28T06:54:02.833Z - debug:  
+2024-07-28T06:54:02.852Z - debug:  
+2024-07-28T06:54:02.865Z - debug:  
+2024-07-28T06:54:02.898Z - debug:  
+2024-07-28T06:54:02.949Z - debug:  
+2024-07-28T06:54:03.058Z - debug:  
+2024-07-28T06:54:08.880Z - debug:  
+2024-07-28T06:54:08.882Z - debug:  
+2024-07-28T06:54:09.931Z - info: Site data built
+2024-07-28T06:54:09.931Z - info: Lazy website regeneration complete! Total build time: 30.599s
+2024-07-28T06:58:49.554Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\testCaseDesign as some of its dependencies were changed since the last visit
+2024-07-28T06:58:50.470Z - info: Site data built
+2024-07-28T06:58:50.471Z - info: Lazy website regeneration complete! Total build time: 0.916s
+2024-07-28T07:00:21.983Z - info: [3:00:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:00:21.983Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:00:21.983Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:00:21.984Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:00:22.996Z - info: Rebuilding 1 pages
+2024-07-28T07:00:23.690Z - info: Site data built
+2024-07-28T07:00:23.690Z - info: Pages rebuilt
+2024-07-28T07:00:23.691Z - info: Website regeneration complete! Total build time: 0.695s
+2024-07-28T07:04:48.804Z - info: [3:04:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:04:48.805Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:04:48.805Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:04:48.806Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:04:49.812Z - info: Rebuilding 1 pages
+2024-07-28T07:04:50.569Z - info: Site data built
+2024-07-28T07:04:50.569Z - info: Pages rebuilt
+2024-07-28T07:04:50.570Z - info: Website regeneration complete! Total build time: 0.759s
+2024-07-28T07:06:27.286Z - info: [3:06:27 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:06:27.287Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:06:27.287Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:06:27.287Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:06:28.295Z - info: Rebuilding 1 pages
+2024-07-28T07:06:29.053Z - info: Site data built
+2024-07-28T07:06:29.054Z - info: Pages rebuilt
+2024-07-28T07:06:29.054Z - info: Website regeneration complete! Total build time: 0.76s
+2024-07-28T07:07:26.785Z - info: [3:07:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:07:26.786Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:07:26.786Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:07:26.786Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:07:27.804Z - info: Rebuilding 1 pages
+2024-07-28T07:07:28.638Z - info: Site data built
+2024-07-28T07:07:28.638Z - info: Pages rebuilt
+2024-07-28T07:07:28.638Z - info: Website regeneration complete! Total build time: 0.835s
+2024-07-28T07:11:16.544Z - info: [3:11:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:11:16.545Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:11:16.545Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:11:16.546Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:11:17.563Z - info: Rebuilding 1 pages
+2024-07-28T07:11:18.277Z - info: Site data built
+2024-07-28T07:11:18.277Z - info: Pages rebuilt
+2024-07-28T07:11:18.277Z - info: Website regeneration complete! Total build time: 0.715s
+2024-07-28T07:12:05.366Z - info: [3:12:05 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:12:05.367Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:12:05.367Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:12:05.367Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:12:06.379Z - info: Rebuilding 1 pages
+2024-07-28T07:12:07.072Z - info: Site data built
+2024-07-28T07:12:07.072Z - info: Pages rebuilt
+2024-07-28T07:12:07.072Z - info: Website regeneration complete! Total build time: 0.694s
+2024-07-28T07:13:25.420Z - info: [3:13:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:13:25.421Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:13:25.422Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:13:25.422Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:13:26.426Z - info: Rebuilding 1 pages
+2024-07-28T07:13:27.088Z - info: Site data built
+2024-07-28T07:13:27.088Z - info: Pages rebuilt
+2024-07-28T07:13:27.088Z - info: Website regeneration complete! Total build time: 0.664s
+2024-07-28T07:13:52.790Z - info: [3:13:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:13:52.790Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:13:52.790Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:13:52.790Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:13:53.794Z - info: Rebuilding 1 pages
+2024-07-28T07:13:54.522Z - info: Site data built
+2024-07-28T07:13:54.522Z - info: Pages rebuilt
+2024-07-28T07:13:54.522Z - info: Website regeneration complete! Total build time: 0.73s
+2024-07-28T07:15:59.578Z - info: [3:15:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\textbookTopics-fragment.md
+2024-07-28T07:15:59.579Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:15:59.579Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:15:59.579Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:15:59.604Z - info: [3:15:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-TIC2002\textbookTopics-fragment.md
+2024-07-28T07:15:59.604Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:15:59.604Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:15:59.604Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:15:59.626Z - info: [3:15:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\index.md
+2024-07-28T07:15:59.626Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:15:59.627Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:15:59.627Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:15:59.648Z - info: [3:15:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-TEE3201\textbookTopics-fragment.md
+2024-07-28T07:15:59.648Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:15:59.648Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:15:59.648Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:15:59.670Z - info: [3:15:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2113\textbookTopics-fragment.md
+2024-07-28T07:15:59.671Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:15:59.671Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:15:59.671Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:16:00.786Z - info: Rebuilding 1 pages
+2024-07-28T07:16:01.055Z - info: Assets built
+2024-07-28T07:16:01.452Z - info: Site data built
+2024-07-28T07:16:01.452Z - info: Pages rebuilt
+2024-07-28T07:16:01.452Z - info: Website regeneration complete! Total build time: 0.666s
+2024-07-28T07:18:41.937Z - info: [3:18:41 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:18:41.938Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:18:41.938Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:18:41.939Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:18:42.954Z - info: Rebuilding 1 pages
+2024-07-28T07:18:43.815Z - info: Site data built
+2024-07-28T07:18:43.815Z - info: Pages rebuilt
+2024-07-28T07:18:43.815Z - info: Website regeneration complete! Total build time: 0.861s
+2024-07-28T07:18:57.445Z - info: [3:18:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:18:57.445Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:18:57.445Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:18:57.446Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:18:58.460Z - info: Rebuilding 1 pages
+2024-07-28T07:18:59.088Z - info: Site data built
+2024-07-28T07:18:59.089Z - info: Pages rebuilt
+2024-07-28T07:18:59.089Z - info: Website regeneration complete! Total build time: 0.629s
+2024-07-28T07:22:04.402Z - info: [3:22:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:22:04.403Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:22:04.403Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:22:04.404Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:22:05.411Z - info: Rebuilding 1 pages
+2024-07-28T07:22:06.152Z - info: Site data built
+2024-07-28T07:22:06.152Z - info: Pages rebuilt
+2024-07-28T07:22:06.152Z - info: Website regeneration complete! Total build time: 0.742s
+2024-07-28T07:22:28.606Z - info: [3:22:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:22:28.607Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:22:28.607Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:22:28.607Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:22:29.614Z - info: Rebuilding 1 pages
+2024-07-28T07:22:30.330Z - info: Site data built
+2024-07-28T07:22:30.330Z - info: Pages rebuilt
+2024-07-28T07:22:30.330Z - info: Website regeneration complete! Total build time: 0.717s
+2024-07-28T07:24:00.068Z - info: [3:24:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:24:00.068Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:24:00.068Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:24:00.068Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:24:01.080Z - info: Rebuilding 1 pages
+2024-07-28T07:24:01.787Z - info: Site data built
+2024-07-28T07:24:01.787Z - info: Pages rebuilt
+2024-07-28T07:24:01.787Z - info: Website regeneration complete! Total build time: 0.71s
+2024-07-28T07:38:12.325Z - info: [3:38:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:38:12.326Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:38:12.326Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:38:12.327Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:38:13.331Z - info: Rebuilding 1 pages
+2024-07-28T07:38:14.111Z - info: Site data built
+2024-07-28T07:38:14.111Z - info: Pages rebuilt
+2024-07-28T07:38:14.111Z - info: Website regeneration complete! Total build time: 0.781s
+2024-07-28T07:40:12.147Z - info: [3:40:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:40:12.148Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:40:12.149Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:40:12.150Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:40:13.152Z - info: Rebuilding 1 pages
+2024-07-28T07:40:13.782Z - info: Site data built
+2024-07-28T07:40:13.782Z - info: Pages rebuilt
+2024-07-28T07:40:13.782Z - info: Website regeneration complete! Total build time: 0.631s
+2024-07-28T07:41:20.403Z - info: [3:41:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:41:20.404Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:41:20.404Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:41:20.405Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:41:21.411Z - info: Rebuilding 1 pages
+2024-07-28T07:41:22.154Z - info: Site data built
+2024-07-28T07:41:22.154Z - info: Pages rebuilt
+2024-07-28T07:41:22.154Z - info: Website regeneration complete! Total build time: 0.744s
+2024-07-28T07:41:29.363Z - info: [3:41:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:41:29.364Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:41:29.364Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:41:29.364Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:41:30.379Z - info: Rebuilding 1 pages
+2024-07-28T07:41:30.993Z - info: Site data built
+2024-07-28T07:41:30.993Z - info: Pages rebuilt
+2024-07-28T07:41:30.993Z - info: Website regeneration complete! Total build time: 0.616s
+2024-07-28T07:41:50.503Z - info: [3:41:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2024-07-28T07:41:50.503Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:41:50.504Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:41:50.504Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:41:51.513Z - info: Rebuilding 1 pages
+2024-07-28T07:41:52.305Z - info: Site data built
+2024-07-28T07:41:52.305Z - info: Pages rebuilt
+2024-07-28T07:41:52.305Z - info: Website regeneration complete! Total build time: 0.795s
+2024-07-28T07:42:53.823Z - info: [3:42:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:42:53.824Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:42:53.824Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:42:53.824Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:42:54.835Z - info: Rebuilding 1 pages
+2024-07-28T07:42:55.585Z - info: Site data built
+2024-07-28T07:42:55.585Z - info: Pages rebuilt
+2024-07-28T07:42:55.585Z - info: Website regeneration complete! Total build time: 0.752s
+2024-07-28T07:43:44.615Z - info: [3:43:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:43:44.616Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:43:44.616Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:43:44.616Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:43:45.626Z - info: Rebuilding 1 pages
+2024-07-28T07:43:46.390Z - info: Site data built
+2024-07-28T07:43:46.390Z - info: Pages rebuilt
+2024-07-28T07:43:46.391Z - info: Website regeneration complete! Total build time: 0.765s
+2024-07-28T07:45:38.459Z - info: [3:45:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:45:38.460Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:45:38.460Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:45:38.460Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:45:39.476Z - info: Rebuilding 1 pages
+2024-07-28T07:45:40.127Z - info: Site data built
+2024-07-28T07:45:40.128Z - info: Pages rebuilt
+2024-07-28T07:45:40.128Z - info: Website regeneration complete! Total build time: 0.653s
+2024-07-28T07:46:25.561Z - info: [3:46:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:46:25.561Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:46:25.562Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:46:25.562Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:46:26.578Z - info: Rebuilding 1 pages
+2024-07-28T07:46:27.303Z - info: Site data built
+2024-07-28T07:46:27.303Z - info: Pages rebuilt
+2024-07-28T07:46:27.303Z - info: Website regeneration complete! Total build time: 0.726s
+2024-07-28T07:47:46.305Z - info: [3:47:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:47:46.305Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:47:46.305Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:47:46.306Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:47:47.316Z - info: Rebuilding 1 pages
+2024-07-28T07:47:48.026Z - info: Site data built
+2024-07-28T07:47:48.026Z - info: Pages rebuilt
+2024-07-28T07:47:48.026Z - info: Website regeneration complete! Total build time: 0.71s
+2024-07-28T07:49:10.735Z - info: [3:49:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:49:10.736Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:49:10.736Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:49:10.737Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:49:11.751Z - info: Rebuilding 1 pages
+2024-07-28T07:49:12.534Z - info: Site data built
+2024-07-28T07:49:12.534Z - info: Pages rebuilt
+2024-07-28T07:49:12.535Z - info: Website regeneration complete! Total build time: 0.785s
+2024-07-28T07:51:14.334Z - info: [3:51:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:51:14.335Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:51:14.335Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:51:14.336Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:51:15.351Z - info: Rebuilding 1 pages
+2024-07-28T07:51:15.992Z - info: Site data built
+2024-07-28T07:51:15.993Z - info: Pages rebuilt
+2024-07-28T07:51:15.993Z - info: Website regeneration complete! Total build time: 0.644s
+2024-07-28T07:52:47.110Z - info: [3:52:47 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:52:47.111Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:52:47.111Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:52:47.111Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:52:48.123Z - info: Rebuilding 1 pages
+2024-07-28T07:52:48.880Z - info: Site data built
+2024-07-28T07:52:48.881Z - info: Pages rebuilt
+2024-07-28T07:52:48.881Z - info: Website regeneration complete! Total build time: 0.76s
+2024-07-28T07:53:33.621Z - info: [3:53:33 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:53:33.622Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:53:33.622Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:53:33.622Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:53:34.626Z - info: Rebuilding 1 pages
+2024-07-28T07:53:35.372Z - info: Site data built
+2024-07-28T07:53:35.373Z - info: Pages rebuilt
+2024-07-28T07:53:35.373Z - info: Website regeneration complete! Total build time: 0.747s
+2024-07-28T07:53:54.325Z - info: [3:53:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:53:54.326Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:53:54.326Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:53:54.326Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:53:55.338Z - info: Rebuilding 1 pages
+2024-07-28T07:53:56.092Z - info: Site data built
+2024-07-28T07:53:56.092Z - info: Pages rebuilt
+2024-07-28T07:53:56.092Z - info: Website regeneration complete! Total build time: 0.756s
+2024-07-28T07:56:25.303Z - info: [3:56:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2024-07-28T07:56:25.304Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:56:25.304Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:56:25.304Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:56:26.322Z - info: Rebuilding 1 pages
+2024-07-28T07:56:27.070Z - info: Site data built
+2024-07-28T07:56:27.071Z - info: Pages rebuilt
+2024-07-28T07:56:27.071Z - info: Website regeneration complete! Total build time: 0.751s
+2024-07-28T07:57:23.681Z - info: [3:57:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:57:23.682Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:57:23.682Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:57:23.682Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:57:23.697Z - info: [3:57:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2024-07-28T07:57:23.697Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:57:23.697Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:57:23.697Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:57:24.700Z - info: Rebuilding 1 pages
+2024-07-28T07:57:25.447Z - info: Site data built
+2024-07-28T07:57:25.448Z - info: Pages rebuilt
+2024-07-28T07:57:25.448Z - info: Website regeneration complete! Total build time: 0.751s
+2024-07-28T07:57:45.578Z - info: [3:57:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:57:45.578Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:57:45.579Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:57:45.579Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:57:46.587Z - info: Rebuilding 1 pages
+2024-07-28T07:57:47.309Z - info: Site data built
+2024-07-28T07:57:47.310Z - info: Pages rebuilt
+2024-07-28T07:57:47.310Z - info: Website regeneration complete! Total build time: 0.724s
+2024-07-28T07:58:10.504Z - info: [3:58:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T07:58:10.504Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:58:10.505Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:58:10.505Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:58:11.521Z - info: Rebuilding 1 pages
+2024-07-28T07:58:12.242Z - info: Site data built
+2024-07-28T07:58:12.243Z - info: Pages rebuilt
+2024-07-28T07:58:12.243Z - info: Website regeneration complete! Total build time: 0.725s
+2024-07-28T07:59:40.482Z - info: [3:59:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2024-07-28T07:59:40.482Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:59:40.483Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:59:40.483Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:59:41.489Z - info: Rebuilding 1 pages
+2024-07-28T07:59:42.358Z - info: Site data built
+2024-07-28T07:59:42.358Z - info: Pages rebuilt
+2024-07-28T07:59:42.358Z - info: Website regeneration complete! Total build time: 0.871s
+2024-07-28T07:59:46.791Z - info: [3:59:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2024-07-28T07:59:46.791Z - info: Synchronizing opened pages list before reload
+2024-07-28T07:59:46.791Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T07:59:46.791Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T07:59:47.806Z - info: Rebuilding 1 pages
+2024-07-28T07:59:48.378Z - info: Site data built
+2024-07-28T07:59:48.378Z - info: Pages rebuilt
+2024-07-28T07:59:48.378Z - info: Website regeneration complete! Total build time: 0.573s
+2024-07-28T08:00:57.959Z - info: [4:00:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2024-07-28T08:00:57.959Z - info: Synchronizing opened pages list before reload
+2024-07-28T08:00:57.959Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T08:00:57.960Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T08:00:58.962Z - info: Rebuilding 1 pages
+2024-07-28T08:00:59.691Z - info: Site data built
+2024-07-28T08:00:59.691Z - info: Pages rebuilt
+2024-07-28T08:00:59.691Z - info: Website regeneration complete! Total build time: 0.73s
+2024-07-28T08:01:57.369Z - info: [4:01:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicValid\text.md
+2024-07-28T08:01:57.370Z - info: Synchronizing opened pages list before reload
+2024-07-28T08:01:57.370Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T08:01:57.370Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T08:01:58.384Z - info: Rebuilding 1 pages
+2024-07-28T08:01:59.025Z - info: Site data built
+2024-07-28T08:01:59.025Z - info: Pages rebuilt
+2024-07-28T08:01:59.025Z - info: Website regeneration complete! Total build time: 0.644s
+2024-07-28T08:03:13.962Z - info: [4:03:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T08:03:13.963Z - info: Synchronizing opened pages list before reload
+2024-07-28T08:03:13.963Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T08:03:13.963Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T08:03:14.973Z - info: Rebuilding 1 pages
+2024-07-28T08:03:15.730Z - info: Site data built
+2024-07-28T08:03:15.730Z - info: Pages rebuilt
+2024-07-28T08:03:15.730Z - info: Website regeneration complete! Total build time: 0.758s
+2024-07-28T08:03:21.291Z - info: [4:03:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testCaseDesign\combiningTestInputs\heuristicInvalid\text.md
+2024-07-28T08:03:21.291Z - info: Synchronizing opened pages list before reload
+2024-07-28T08:03:21.292Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T08:03:21.292Z - info: 1. se-book-adapted/chapters/testCaseDesign
+2024-07-28T08:03:22.305Z - info: Rebuilding 1 pages
+2024-07-28T08:03:22.889Z - info: Site data built
+2024-07-28T08:03:22.889Z - info: Pages rebuilt
+2024-07-28T08:03:22.889Z - info: Website regeneration complete! Total build time: 0.585s
+2024-07-28T11:22:55.723Z - info: Website generation (lazy) started at 7:22:40 pm
+2024-07-28T11:23:06.643Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-28T11:23:06.646Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-07-28T11:23:06.729Z - info: Building assets...
+2024-07-28T11:23:54.607Z - info: Assets built
+2024-07-28T11:23:54.608Z - info: Generating landing page...
+2024-07-28T11:23:55.715Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-07-28T11:23:57.314Z - info: Site data built
+2024-07-28T11:23:57.314Z - info: Website generation (lazy) complete! Total build time: 77.116s
+2024-07-28T11:23:57.843Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-07-28T11:23:57.843Z - info: Press CTRL+C to stop ...
+2024-07-28T11:25:03.894Z - info: [7:25:03 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\~$logicMinefield.pptx
+2024-07-28T11:25:03.895Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:25:03.897Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:25:03.897Z - info: 1. index
+2024-07-28T11:25:18.664Z - info: Assets built
+2024-07-28T11:28:41.264Z - info: [7:28:41 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\ppt3EC9.tmp
+2024-07-28T11:28:41.265Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:28:41.265Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:28:41.266Z - info: 1. index
+2024-07-28T11:28:45.997Z - info: [7:28:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\logicMinefield.pptx
+2024-07-28T11:28:45.997Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:28:45.997Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:28:45.997Z - info: 1. index
+2024-07-28T11:28:46.100Z - info: [7:28:46 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\ppt3EC9.tmp
+2024-07-28T11:28:46.100Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:28:46.100Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:28:46.101Z - info: 1. index
+2024-07-28T11:28:49.310Z - info: Assets built
+2024-07-28T11:28:50.323Z - debug: Assets removed
+2024-07-28T11:30:20.972Z - info: [7:30:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\logicMinefield.png
+2024-07-28T11:30:20.973Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:30:20.973Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:30:20.974Z - info: 1. index
+2024-07-28T11:30:22.083Z - info: Assets built
+2024-07-28T11:30:31.702Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2024-07-28T11:30:32.146Z - info: Site data built
+2024-07-28T11:30:32.147Z - info: Lazy website regeneration complete! Total build time: 0.444s
+2024-07-28T11:30:38.630Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\uml as some of its dependencies were changed since the last visit
+2024-07-28T11:30:56.212Z - debug:  
+2024-07-28T11:30:56.363Z - debug:  
+2024-07-28T11:30:56.564Z - debug:  
+2024-07-28T11:30:56.740Z - debug:  
+2024-07-28T11:30:56.826Z - debug:  
+2024-07-28T11:30:56.938Z - debug:  
+2024-07-28T11:30:57.050Z - debug:  
+2024-07-28T11:30:57.264Z - debug:  
+2024-07-28T11:30:57.353Z - debug:  
+2024-07-28T11:30:57.472Z - debug:  
+2024-07-28T11:30:57.499Z - debug:  
+2024-07-28T11:30:57.545Z - debug:  
+2024-07-28T11:30:57.791Z - debug:  
+2024-07-28T11:30:58.003Z - debug:  
+2024-07-28T11:30:58.014Z - debug:  
+2024-07-28T11:30:58.576Z - info: Site data built
+2024-07-28T11:30:58.577Z - info: Lazy website regeneration complete! Total build time: 19.946s
+2024-07-28T11:31:33.801Z - info: [7:31:33 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\~$manDog.pptx
+2024-07-28T11:31:33.801Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:31:33.802Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:31:33.803Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:31:38.424Z - info: Assets built
+2024-07-28T11:32:45.258Z - info: [7:32:45 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\pptF7EB.tmp
+2024-07-28T11:32:45.258Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:32:45.259Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:32:45.259Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:32:50.972Z - info: [7:32:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\manDog.pptx
+2024-07-28T11:32:50.972Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:32:50.973Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:32:50.973Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:32:51.072Z - info: [7:32:51 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\pptF7EB.tmp
+2024-07-28T11:32:51.072Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:32:51.073Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:32:51.073Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:32:54.607Z - info: Assets built
+2024-07-28T11:32:55.608Z - debug: Assets removed
+2024-07-28T11:33:18.136Z - info: [7:33:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\manDog.png
+2024-07-28T11:33:18.136Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:33:18.137Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:33:18.137Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:33:19.185Z - info: Assets built
+2024-07-28T11:34:28.231Z - info: [7:34:28 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\~$logicMinefieldObjects.pptx
+2024-07-28T11:34:28.232Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:34:28.232Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:34:28.232Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:34:32.976Z - info: Assets built
+2024-07-28T11:35:39.856Z - info: [7:35:39 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\pptA1EE.tmp
+2024-07-28T11:35:39.856Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:35:39.857Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:35:39.857Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:35:44.133Z - info: [7:35:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\logicMinefieldObjects.pptx
+2024-07-28T11:35:44.133Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:35:44.133Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:35:44.133Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:35:44.233Z - info: [7:35:44 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\pptA1EE.tmp
+2024-07-28T11:35:44.233Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:35:44.234Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:35:44.235Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:35:47.131Z - info: Assets built
+2024-07-28T11:35:48.141Z - debug: Assets removed
+2024-07-28T11:36:00.345Z - info: [7:36:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\logicMinefieldObjects.png
+2024-07-28T11:36:00.345Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:36:00.345Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:36:00.346Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:36:01.375Z - info: Assets built
+2024-07-28T11:38:22.815Z - info: [7:38:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:38:22.815Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:38:22.816Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:38:22.816Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:38:23.834Z - info: Rebuilding 1 pages
+2024-07-28T11:38:25.913Z - info: Site data built
+2024-07-28T11:38:25.914Z - info: Pages rebuilt
+2024-07-28T11:38:25.914Z - info: Website regeneration complete! Total build time: 2.083s
+2024-07-28T11:39:01.908Z - info: [7:39:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:39:01.909Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:39:01.909Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:39:01.909Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:39:02.912Z - info: Rebuilding 1 pages
+2024-07-28T11:39:04.480Z - info: Site data built
+2024-07-28T11:39:04.480Z - info: Pages rebuilt
+2024-07-28T11:39:04.480Z - info: Website regeneration complete! Total build time: 1.569s
+2024-07-28T11:42:40.328Z - info: [7:42:40 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\withoutNavigability.png
+2024-07-28T11:42:40.329Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:42:40.329Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:42:40.329Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:42:44.436Z - info: [7:42:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\withoutNavigability.png
+2024-07-28T11:42:44.437Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:42:44.437Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:42:44.437Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:42:45.446Z - info: Assets built
+2024-07-28T11:45:11.556Z - info: [7:45:11 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\withAndwithoutNavigability.png
+2024-07-28T11:45:11.557Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:45:11.557Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:45:11.557Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:45:15.800Z - info: [7:45:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\withAndwithoutNavigability.png
+2024-07-28T11:45:15.800Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:45:15.800Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:45:15.801Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:45:16.835Z - info: Assets built
+2024-07-28T11:45:43.151Z - info: [7:45:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:45:43.151Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:45:43.152Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:45:43.152Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:45:44.158Z - info: Rebuilding 1 pages
+2024-07-28T11:45:46.006Z - info: Site data built
+2024-07-28T11:45:46.007Z - info: Pages rebuilt
+2024-07-28T11:45:46.007Z - info: Website regeneration complete! Total build time: 1.851s
+2024-07-28T11:48:39.273Z - info: [7:48:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:48:39.274Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:48:39.274Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:48:39.274Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:48:40.289Z - info: Rebuilding 1 pages
+2024-07-28T11:48:41.969Z - info: Site data built
+2024-07-28T11:48:41.970Z - info: Pages rebuilt
+2024-07-28T11:48:41.970Z - info: Website regeneration complete! Total build time: 1.682s
+2024-07-28T11:48:55.970Z - info: [7:48:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:48:55.970Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:48:55.970Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:48:55.971Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:48:56.979Z - info: Rebuilding 1 pages
+2024-07-28T11:48:58.367Z - info: Site data built
+2024-07-28T11:48:58.367Z - info: Pages rebuilt
+2024-07-28T11:48:58.368Z - info: Website regeneration complete! Total build time: 1.389s
+2024-07-28T11:50:14.028Z - info: [7:50:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:50:14.029Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:50:14.030Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:50:14.030Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:50:15.035Z - info: Rebuilding 1 pages
+2024-07-28T11:50:16.504Z - info: Site data built
+2024-07-28T11:50:16.504Z - info: Pages rebuilt
+2024-07-28T11:50:16.504Z - info: Website regeneration complete! Total build time: 1.471s
+2024-07-28T11:50:35.916Z - info: [7:50:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:50:35.917Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:50:35.917Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:50:35.917Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:50:36.921Z - info: Rebuilding 1 pages
+2024-07-28T11:50:38.477Z - info: Site data built
+2024-07-28T11:50:38.477Z - info: Pages rebuilt
+2024-07-28T11:50:38.477Z - info: Website regeneration complete! Total build time: 1.557s
+2024-07-28T11:52:51.101Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\oop as some of its dependencies were changed since the last visit
+2024-07-28T11:52:55.440Z - debug:  
+2024-07-28T11:52:56.344Z - info: Site data built
+2024-07-28T11:52:56.345Z - info: Lazy website regeneration complete! Total build time: 5.245s
+2024-07-28T11:52:56.750Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\oop as some of its dependencies were changed since the last visit
+2024-07-28T11:52:57.792Z - info: Site data built
+2024-07-28T11:52:57.792Z - info: Lazy website regeneration complete! Total build time: 1.043s
+2024-07-28T11:53:51.799Z - info: [7:53:51 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\images\withoutNavigability.png
+2024-07-28T11:53:51.800Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:53:51.801Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:53:51.801Z - info: 1. se-book-adapted/chapters/oop
+2024-07-28T11:53:57.126Z - debug: Assets removed
+2024-07-28T11:54:15.340Z - info: [7:54:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:54:15.340Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:54:15.340Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:54:15.341Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:54:16.343Z - info: Rebuilding 1 pages
+2024-07-28T11:54:17.837Z - info: Site data built
+2024-07-28T11:54:17.838Z - info: Pages rebuilt
+2024-07-28T11:54:17.838Z - info: Website regeneration complete! Total build time: 1.496s
+2024-07-28T11:54:42.087Z - info: [7:54:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\associations\navigability\text.md
+2024-07-28T11:54:42.088Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:54:42.089Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:54:42.089Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:54:43.093Z - info: Rebuilding 1 pages
+2024-07-28T11:54:44.791Z - info: Site data built
+2024-07-28T11:54:44.791Z - info: Pages rebuilt
+2024-07-28T11:54:44.791Z - info: Website regeneration complete! Total build time: 1.699s
+2024-07-28T11:56:13.485Z - info: [7:56:13 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\~$logicMinefieldObjects.pptx
+2024-07-28T11:56:13.486Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:56:13.487Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:56:13.487Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:56:16.951Z - info: [7:56:16 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\~$manDog.pptx
+2024-07-28T11:56:16.952Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:56:16.953Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:56:16.954Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:56:20.001Z - debug: Assets removed
+2024-07-28T11:56:20.008Z - info: [7:56:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\logicMinefield.pptx
+2024-07-28T11:56:20.008Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:56:20.008Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:56:20.008Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:56:20.114Z - info: [7:56:20 pm] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\book\diagrams\uml\classDiagrams\associations\navigability\~$logicMinefield.pptx
+2024-07-28T11:56:20.115Z - info: Synchronizing opened pages list before reload
+2024-07-28T11:56:20.115Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T11:56:20.115Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T11:56:23.500Z - info: Assets built
+2024-07-28T11:56:24.506Z - debug: Assets removed
+2024-07-28T12:02:17.035Z - info: [8:02:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2024-07-28T12:02:17.036Z - info: Synchronizing opened pages list before reload
+2024-07-28T12:02:17.036Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T12:02:17.036Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T12:02:18.050Z - info: Rebuilding 1 pages
+2024-07-28T12:02:25.603Z - info: Site data built
+2024-07-28T12:02:25.604Z - info: Pages rebuilt
+2024-07-28T12:02:25.605Z - info: Website regeneration complete! Total build time: 7.556s
+2024-07-28T12:04:51.703Z - info: [8:04:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2024-07-28T12:04:51.704Z - info: Synchronizing opened pages list before reload
+2024-07-28T12:04:51.704Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T12:04:51.704Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T12:04:52.716Z - info: Rebuilding 1 pages
+2024-07-28T12:04:54.292Z - info: Site data built
+2024-07-28T12:04:54.292Z - info: Pages rebuilt
+2024-07-28T12:04:54.292Z - info: Website regeneration complete! Total build time: 1.577s
+2024-07-28T12:06:23.527Z - info: [8:06:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2024-07-28T12:06:23.528Z - info: Synchronizing opened pages list before reload
+2024-07-28T12:06:23.528Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T12:06:23.528Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T12:06:24.537Z - info: Rebuilding 1 pages
+2024-07-28T12:06:26.271Z - info: Site data built
+2024-07-28T12:06:26.272Z - info: Pages rebuilt
+2024-07-28T12:06:26.272Z - info: Website regeneration complete! Total build time: 1.736s
+2024-07-28T12:07:46.171Z - info: [8:07:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2024-07-28T12:07:46.172Z - info: Synchronizing opened pages list before reload
+2024-07-28T12:07:46.172Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T12:07:46.173Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T12:07:47.191Z - info: Rebuilding 1 pages
+2024-07-28T12:07:48.902Z - info: Site data built
+2024-07-28T12:07:48.903Z - info: Pages rebuilt
+2024-07-28T12:07:48.903Z - info: Website regeneration complete! Total build time: 1.713s
+2024-07-28T12:08:55.585Z - info: [8:08:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2024-07-28T12:08:55.586Z - info: Synchronizing opened pages list before reload
+2024-07-28T12:08:55.586Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T12:08:55.586Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T12:08:56.629Z - info: Rebuilding 1 pages
+2024-07-28T12:08:59.165Z - info: Site data built
+2024-07-28T12:08:59.166Z - info: Pages rebuilt
+2024-07-28T12:08:59.166Z - info: Website regeneration complete! Total build time: 2.538s
+2024-07-28T12:10:29.914Z - info: [8:10:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classes\what\text.md
+2024-07-28T12:10:29.915Z - info: Synchronizing opened pages list before reload
+2024-07-28T12:10:29.916Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T12:10:29.916Z - info: 1. se-book-adapted/chapters/uml
+2024-07-28T12:10:30.926Z - info: Rebuilding 1 pages
+2024-07-28T12:10:32.652Z - info: Site data built
+2024-07-28T12:10:32.652Z - info: Pages rebuilt
+2024-07-28T12:10:32.653Z - info: Website regeneration complete! Total build time: 1.727s
+2024-07-28T12:20:07.643Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\documentation as some of its dependencies were changed since the last visit
+2024-07-28T12:20:08.392Z - info: Site data built
+2024-07-28T12:20:08.393Z - info: Lazy website regeneration complete! Total build time: 0.75s
+2024-07-28T13:41:40.844Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\gitAndGithub as some of its dependencies were changed since the last visit
+2024-07-28T13:41:42.659Z - info: Site data built
+2024-07-28T13:41:42.659Z - info: Lazy website regeneration complete! Total build time: 1.817s
+2024-07-28T13:45:49.471Z - info: [9:45:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T13:45:49.472Z - info: Synchronizing opened pages list before reload
+2024-07-28T13:45:49.472Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T13:45:49.473Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T13:45:50.499Z - info: Rebuilding 1 pages
+2024-07-28T13:45:58.861Z - info: Site data built
+2024-07-28T13:45:58.862Z - info: Pages rebuilt
+2024-07-28T13:45:58.862Z - info: Website regeneration complete! Total build time: 8.364s
+2024-07-28T13:46:20.523Z - info: [9:46:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T13:46:20.524Z - info: Synchronizing opened pages list before reload
+2024-07-28T13:46:20.524Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T13:46:20.524Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T13:46:21.530Z - info: Rebuilding 1 pages
+2024-07-28T13:46:22.757Z - info: Site data built
+2024-07-28T13:46:22.758Z - info: Pages rebuilt
+2024-07-28T13:46:22.758Z - info: Website regeneration complete! Total build time: 1.229s
+2024-07-28T13:49:00.521Z - info: [9:49:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T13:49:00.522Z - info: Synchronizing opened pages list before reload
+2024-07-28T13:49:00.523Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T13:49:00.523Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T13:49:01.533Z - info: Rebuilding 1 pages
+2024-07-28T13:49:02.908Z - info: Site data built
+2024-07-28T13:49:02.908Z - info: Pages rebuilt
+2024-07-28T13:49:02.908Z - info: Website regeneration complete! Total build time: 1.376s
+2024-07-28T13:49:08.118Z - info: [9:49:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T13:49:08.118Z - info: Synchronizing opened pages list before reload
+2024-07-28T13:49:08.118Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T13:49:08.119Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T13:49:09.136Z - info: Rebuilding 1 pages
+2024-07-28T13:49:10.140Z - info: Site data built
+2024-07-28T13:49:10.141Z - info: Pages rebuilt
+2024-07-28T13:49:10.142Z - info: Website regeneration complete! Total build time: 1.006s
+2024-07-28T13:49:28.036Z - info: [9:49:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T13:49:28.036Z - info: Synchronizing opened pages list before reload
+2024-07-28T13:49:28.037Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T13:49:28.037Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T13:49:29.047Z - info: Rebuilding 1 pages
+2024-07-28T13:49:30.250Z - info: Site data built
+2024-07-28T13:49:30.250Z - info: Pages rebuilt
+2024-07-28T13:49:30.250Z - info: Website regeneration complete! Total build time: 1.204s
+2024-07-28T13:50:02.303Z - info: [9:50:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T13:50:02.304Z - info: Synchronizing opened pages list before reload
+2024-07-28T13:50:02.304Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T13:50:02.305Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T13:50:03.312Z - info: Rebuilding 1 pages
+2024-07-28T13:50:04.479Z - info: Site data built
+2024-07-28T13:50:04.479Z - info: Pages rebuilt
+2024-07-28T13:50:04.479Z - info: Website regeneration complete! Total build time: 1.168s
+2024-07-28T14:01:02.024Z - info: [10:01:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T14:01:02.025Z - info: Synchronizing opened pages list before reload
+2024-07-28T14:01:02.025Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T14:01:02.026Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T14:01:03.046Z - info: Rebuilding 1 pages
+2024-07-28T14:01:04.179Z - info: Site data built
+2024-07-28T14:01:04.180Z - info: Pages rebuilt
+2024-07-28T14:01:04.180Z - info: Website regeneration complete! Total build time: 1.135s
+2024-07-28T14:01:28.858Z - info: [10:01:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T14:01:28.858Z - info: Synchronizing opened pages list before reload
+2024-07-28T14:01:28.859Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T14:01:28.859Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T14:01:29.880Z - info: Rebuilding 1 pages
+2024-07-28T14:01:31.020Z - info: Site data built
+2024-07-28T14:01:31.021Z - info: Pages rebuilt
+2024-07-28T14:01:31.021Z - info: Website regeneration complete! Total build time: 1.142s
+2024-07-28T14:03:11.628Z - info: [10:03:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T14:03:11.629Z - info: Synchronizing opened pages list before reload
+2024-07-28T14:03:11.629Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T14:03:11.629Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T14:03:12.646Z - info: Rebuilding 1 pages
+2024-07-28T14:03:13.659Z - info: Site data built
+2024-07-28T14:03:13.660Z - info: Pages rebuilt
+2024-07-28T14:03:13.660Z - info: Website regeneration complete! Total build time: 1.015s
+2024-07-28T14:06:01.843Z - info: [10:06:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T14:06:01.843Z - info: Synchronizing opened pages list before reload
+2024-07-28T14:06:01.844Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T14:06:01.844Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T14:06:02.852Z - info: Rebuilding 1 pages
+2024-07-28T14:06:03.883Z - info: Site data built
+2024-07-28T14:06:03.883Z - info: Pages rebuilt
+2024-07-28T14:06:03.883Z - info: Website regeneration complete! Total build time: 1.032s
+2024-07-28T14:06:47.150Z - info: [10:06:47 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\commit\text.md
+2024-07-28T14:06:47.151Z - info: Synchronizing opened pages list before reload
+2024-07-28T14:06:47.151Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T14:06:47.151Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T14:06:48.157Z - info: Rebuilding 1 pages
+2024-07-28T14:06:49.192Z - info: Site data built
+2024-07-28T14:06:49.192Z - info: Pages rebuilt
+2024-07-28T14:06:49.192Z - info: Website regeneration complete! Total build time: 1.036s
+2024-07-28T15:55:33.654Z - info: [11:55:33 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_1.md
+2024-07-28T15:55:33.655Z - info: Synchronizing opened pages list before reload
+2024-07-28T15:55:33.656Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T15:55:33.656Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T15:55:34.672Z - info: Rebuilding 1 pages
+2024-07-28T15:55:36.207Z - info: Site data built
+2024-07-28T15:55:36.208Z - info: Pages rebuilt
+2024-07-28T15:55:36.208Z - info: Website regeneration complete! Total build time: 1.538s
+2024-07-28T15:58:13.105Z - info: [11:58:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_1.md
+2024-07-28T15:58:13.106Z - info: Synchronizing opened pages list before reload
+2024-07-28T15:58:13.106Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T15:58:13.106Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T15:58:14.116Z - info: Rebuilding 1 pages
+2024-07-28T15:58:15.345Z - info: Site data built
+2024-07-28T15:58:15.346Z - info: Pages rebuilt
+2024-07-28T15:58:15.346Z - info: Website regeneration complete! Total build time: 1.231s
+2024-07-28T15:58:34.036Z - info: [11:58:34 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_1.md
+2024-07-28T15:58:34.036Z - info: Synchronizing opened pages list before reload
+2024-07-28T15:58:34.037Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T15:58:34.037Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T15:58:35.048Z - info: Rebuilding 1 pages
+2024-07-28T15:58:35.940Z - info: Site data built
+2024-07-28T15:58:35.941Z - info: Pages rebuilt
+2024-07-28T15:58:35.941Z - info: Website regeneration complete! Total build time: 0.894s
+2024-07-28T15:59:22.592Z - info: [11:59:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_1.md
+2024-07-28T15:59:22.593Z - info: Synchronizing opened pages list before reload
+2024-07-28T15:59:22.593Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T15:59:22.594Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T15:59:23.601Z - info: Rebuilding 1 pages
+2024-07-28T15:59:24.671Z - info: Site data built
+2024-07-28T15:59:24.671Z - info: Pages rebuilt
+2024-07-28T15:59:24.671Z - info: Website regeneration complete! Total build time: 1.071s
+2024-07-28T15:59:43.481Z - info: [11:59:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\gitAndGithub\branch\cli_1.md
+2024-07-28T15:59:43.481Z - info: Synchronizing opened pages list before reload
+2024-07-28T15:59:43.481Z - info: Current opened pages, from most-to-least recent:
+2024-07-28T15:59:43.482Z - info: 1. se-book-adapted/chapters/gitAndGithub
+2024-07-28T15:59:44.499Z - info: Rebuilding 1 pages
+2024-07-28T15:59:45.302Z - info: Site data built
+2024-07-28T15:59:45.303Z - info: Pages rebuilt
+2024-07-28T15:59:45.303Z - info: Website regeneration complete! Total build time: 0.805s

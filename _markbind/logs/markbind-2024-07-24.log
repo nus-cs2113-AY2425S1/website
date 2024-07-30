@@ -1,0 +1,57 @@
+2024-07-23T16:59:47.347Z - info: Website generation started at 12:59:19 am
+2024-07-23T16:59:57.849Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-23T16:59:57.850Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-07-23T16:59:57.920Z - info: Building assets...
+2024-07-23T17:00:40.946Z - info: Assets built
+2024-07-23T17:00:40.947Z - info: Generating pages...
+2024-07-23T17:01:06.131Z - debug:  
+2024-07-23T17:01:06.134Z - debug:  
+2024-07-23T17:01:06.136Z - debug:  
+2024-07-23T17:01:06.137Z - debug:  
+2024-07-23T17:01:06.139Z - debug:  
+2024-07-23T17:01:06.140Z - debug:  
+2024-07-23T17:01:06.141Z - debug:  
+2024-07-23T17:01:06.141Z - debug:  
+2024-07-23T17:01:06.142Z - debug:  
+2024-07-23T17:01:06.142Z - debug:  
+2024-07-23T17:01:06.143Z - debug:  
+2024-07-23T17:01:06.558Z - debug:  
+2024-07-23T17:01:06.559Z - debug:  
+2024-07-23T17:01:06.559Z - debug:  
+2024-07-23T17:01:06.560Z - debug:  
+2024-07-23T17:01:08.768Z - debug:  
+2024-07-23T17:01:14.451Z - debug:  
+2024-07-23T17:02:40.457Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:02:40.458Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:02:40.947Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:03:08.260Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:03:08.262Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:03:14.396Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:03:31.433Z - debug:  
+2024-07-23T17:03:45.217Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:03:48.690Z - debug:  
+2024-07-23T17:03:48.724Z - debug:  
+2024-07-23T17:03:54.402Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:03:54.403Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T17:03:57.000Z - info: Pages built
+2024-07-23T17:03:58.178Z - info: Site data built
+2024-07-23T17:03:58.178Z - info: Website generation complete! Total build time: 279.028s
+2024-07-23T17:03:58.179Z - info: Build success!
