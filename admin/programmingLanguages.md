@@ -30,7 +30,7 @@ The exam expects you to know Java to the extent that you should be familiar with
 
 <span style="color:purple">**:fas-hard-hat: Preparation:**</span>
 
-We require you to use **Java 17** (the [Oracle version](https://www.oracle.com/java/technologies/downloads/#java17) or another alternative such as the OpenJDK version) for all course work. It is your duty to ensure the code you write (and executables you produce) are compatible with that version of Java. ==Any incompatibilities will be considered as bugs==.
+We require you to use **Java 17** (the [Oracle version](https://www.oracle.com/java/technologies/downloads/#java17) or another alternative such as the OpenJDK version) for all course work. It is your responsibility to ensure the code you write (and executables you produce) are compatible with that version of Java. ==Any incompatibilities will be considered as bugs==.
 
 **If you have Java 8** (a particularly 'sticky' version of Java) in your computer, we recommend removing it, to prevent using it unintentionally.
 
