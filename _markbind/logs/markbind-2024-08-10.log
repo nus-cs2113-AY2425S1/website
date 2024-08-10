@@ -198,3 +198,101 @@ Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
 2024-08-10T09:59:29.038Z - info: Website regeneration complete! Total build time: 0.168s
 2024-08-10T10:00:22.885Z - info: Website generation started at 6:00:18 pm
 2024-08-10T10:00:28.185Z - info: Building assets...
+2024-08-10T10:00:32.088Z - info: Assets built
+2024-08-10T10:00:32.089Z - info: Generating pages...
+2024-08-10T10:00:43.485Z - debug:  
+2024-08-10T10:00:43.741Z - debug:  
+2024-08-10T10:00:43.743Z - debug:  
+2024-08-10T10:00:43.746Z - debug:  
+2024-08-10T10:00:43.747Z - debug:  
+2024-08-10T10:00:43.748Z - debug:  
+2024-08-10T10:00:43.753Z - debug:  
+2024-08-10T10:00:43.753Z - debug:  
+2024-08-10T10:00:43.756Z - debug:  
+2024-08-10T10:00:43.757Z - debug:  
+2024-08-10T10:00:43.759Z - debug:  
+2024-08-10T10:00:43.762Z - debug:  
+2024-08-10T10:00:43.762Z - debug:  
+2024-08-10T10:00:43.762Z - debug:  
+2024-08-10T10:00:43.767Z - debug:  
+2024-08-10T10:00:45.112Z - debug:  
+2024-08-10T10:00:48.926Z - debug:  
+2024-08-10T10:02:34.155Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:02:34.157Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:02:34.827Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:03:11.354Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:03:11.356Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:03:18.067Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:03:35.632Z - debug:  
+2024-08-10T10:03:47.396Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:03:50.168Z - debug:  
+2024-08-10T10:03:50.259Z - debug:  
+2024-08-10T10:03:55.437Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:03:55.438Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T10:03:57.919Z - info: Pages built
+2024-08-10T10:03:59.482Z - info: Site data built
+2024-08-10T10:03:59.482Z - info: Website generation complete! Total build time: 220.492s
+2024-08-10T10:03:59.483Z - info: Build success!
+2024-08-10T10:09:00.794Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
+2024-08-10T15:38:27.655Z - info: Website generation (lazy) started at 11:38:17 pm
+2024-08-10T15:38:35.540Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-10T15:38:35.542Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\_markbind\variables.md'
+2024-08-10T15:38:35.585Z - info: Building assets...
+2024-08-10T15:39:12.539Z - info: Assets built
+2024-08-10T15:39:12.541Z - info: Generating landing page...
+2024-08-10T15:39:13.094Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-10T15:39:14.484Z - info: Site data built
+2024-08-10T15:39:14.485Z - info: Website generation (lazy) complete! Total build time: 56.902s
+2024-08-10T15:39:14.551Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_site" at http://127.0.0.1:8080
+2024-08-10T15:39:14.552Z - info: Press CTRL+C to stop ...
+2024-08-10T15:40:43.715Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\instructors as some of its dependencies were changed since the last visit
+2024-08-10T15:40:43.984Z - info: Site data built
+2024-08-10T15:40:43.985Z - info: Lazy website regeneration complete! Total build time: 0.273s
+2024-08-10T15:40:48.600Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\textbooks as some of its dependencies were changed since the last visit
+2024-08-10T15:40:48.749Z - info: Site data built
+2024-08-10T15:40:48.750Z - info: Lazy website regeneration complete! Total build time: 0.151s
+2024-08-10T15:41:02.308Z - info: [11:41:02 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\textbooks.md
+2024-08-10T15:41:02.309Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:41:02.310Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:41:02.310Z - info: 1. admin/textbooks
+2024-08-10T15:41:03.319Z - info: Rebuilding 1 pages
+2024-08-10T15:41:03.519Z - info: Site data built
+2024-08-10T15:41:03.520Z - info: Pages rebuilt
+2024-08-10T15:41:03.520Z - info: Website regeneration complete! Total build time: 0.202s
+2024-08-10T15:41:31.356Z - info: [11:41:31 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\textbooks.md
+2024-08-10T15:41:31.357Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:41:31.357Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:41:31.357Z - info: 1. admin/textbooks
+2024-08-10T15:41:32.372Z - info: Rebuilding 1 pages
+2024-08-10T15:41:32.556Z - info: Site data built
+2024-08-10T15:41:32.557Z - info: Pages rebuilt
+2024-08-10T15:41:32.557Z - info: Website regeneration complete! Total build time: 0.186s
+2024-08-10T15:41:38.432Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\programmingLanguages as some of its dependencies were changed since the last visit
+2024-08-10T15:41:38.567Z - info: Site data built
+2024-08-10T15:41:38.567Z - info: Lazy website regeneration complete! Total build time: 0.135s
+2024-08-10T15:41:46.775Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\standardsAndConventions as some of its dependencies were changed since the last visit
+2024-08-10T15:41:46.949Z - info: Site data built
+2024-08-10T15:41:46.949Z - info: Lazy website regeneration complete! Total build time: 0.175s
+2024-08-10T15:41:50.826Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-overview as some of its dependencies were changed since the last visit
+2024-08-10T15:41:51.059Z - info: Site data built
+2024-08-10T15:41:51.059Z - info: Lazy website regeneration complete! Total build time: 0.235s
+2024-08-10T15:42:57.322Z - info: Website generation started at 11:42:35 pm
+2024-08-10T15:43:02.579Z - info: Building assets...
