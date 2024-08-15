@@ -296,3 +296,56 @@ Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
 2024-08-10T15:41:51.059Z - info: Lazy website regeneration complete! Total build time: 0.235s
 2024-08-10T15:42:57.322Z - info: Website generation started at 11:42:35 pm
 2024-08-10T15:43:02.579Z - info: Building assets...
+2024-08-10T15:43:06.519Z - info: Assets built
+2024-08-10T15:43:06.520Z - info: Generating pages...
+2024-08-10T15:43:20.271Z - debug:  
+2024-08-10T15:43:20.272Z - debug:  
+2024-08-10T15:43:20.272Z - debug:  
+2024-08-10T15:43:20.634Z - debug:  
+2024-08-10T15:43:20.641Z - debug:  
+2024-08-10T15:43:20.643Z - debug:  
+2024-08-10T15:43:20.643Z - debug:  
+2024-08-10T15:43:20.644Z - debug:  
+2024-08-10T15:43:20.644Z - debug:  
+2024-08-10T15:43:20.648Z - debug:  
+2024-08-10T15:43:20.648Z - debug:  
+2024-08-10T15:43:20.650Z - debug:  
+2024-08-10T15:43:20.653Z - debug:  
+2024-08-10T15:43:20.660Z - debug:  
+2024-08-10T15:43:20.663Z - debug:  
+2024-08-10T15:43:23.855Z - debug:  
+2024-08-10T15:43:29.176Z - debug:  
+2024-08-10T15:44:26.918Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:44:26.920Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:44:27.400Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:44:43.752Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:44:43.753Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:44:47.783Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:44:58.006Z - debug:  
+2024-08-10T15:45:05.702Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:45:08.297Z - debug:  
+2024-08-10T15:45:08.341Z - debug:  
+2024-08-10T15:45:12.456Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:45:12.457Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-08-10T15:45:14.251Z - info: Pages built
+2024-08-10T15:45:15.608Z - info: Site data built
+2024-08-10T15:45:15.608Z - info: Website generation complete! Total build time: 159.816s
+2024-08-10T15:45:15.609Z - info: Build success!
