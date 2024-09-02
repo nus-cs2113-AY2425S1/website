@@ -47,6 +47,6 @@ with(this){return _c('span',{staticClass:"badge bg-secondary  font-weight-normal
 with(this){return _c('div',[_c('div',{attrs:{"id":"demo"}},[_c('ol',[_c('li',[_c('strong',[_v("Run your app using the latest released version "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.0")])]),_v(" .")]),_v(" "),_c('li',[_c('strong',[_v("Take screenshots")]),_v(" of each available feature in action.")]),_v(" "),_c('li',[_c('strong',[_v("Add those screenshots to the shared workspace.")]),_c('br'),_v("You can also add the screenshots to your "),_c('em',[_v("project notes")]),_v(" document with an appropriate heading e.g., "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("v1.0 features demo")]),_v(", and reuse them as necessary in the documentation.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 31 Aug 2024, 22:31:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 2 Sept 2024, 8:02:56 GMT+8]")])])])}
 }];
   
