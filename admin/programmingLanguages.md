@@ -51,7 +51,7 @@ To reiterate, #r#it is not enough that you have Java 17##, it needs to be ==the 
 
 1. Download the latest `addressbook.jar` from [here](https://github.com/se-edu/addressbook-level3/releases).
 1. Open a terminal and navigate to the location where you saved the above file.
-1. Check if you are using Java 11 by running the `java -version` command.
+1. Check if you are using Java 17 by running the `java -version` command.
 1. Launch the JAR using the `java -jar addressbook.jar` command.
 1. If the text in the GUI appears garbled/unreadable, this advisory applies to you.
 
