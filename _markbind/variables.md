@@ -8,7 +8,7 @@
 <variable name="S">1</variable>
 <variable name="semester">AY2425S{{ S }}</variable>
 <variable name="period">2024 Aug-Nov</variable>
-<variable name="current_week">5</variable>
+<variable name="current_week">6</variable>
 
 <variable name="algolia">yes</variable>
 
@@ -19,7 +19,7 @@
 
 <variable name="date_w1_start">2024-08-12</variable>
 <variable name="day_first_tutorial">Wednesday</variable>
-<variable name="recess_after_week">7</variable>
+<variable name="recess_after_week">6</variable>
 <variable name="lecture_venue">LT16</variable>
 <variable name="time_lecture_start">1600</variable>
 <variable name="time_lecture_end">1800</variable>
