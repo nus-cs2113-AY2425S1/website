@@ -1,2 +1,38 @@
 2024-09-11T12:25:35.425Z - info: Website generation started at 8:25:23 pm
 2024-09-11T12:25:40.533Z - info: Building assets...
+2024-09-11T12:25:44.687Z - info: Assets built
+2024-09-11T12:25:44.688Z - info: Generating pages...
+2024-09-11T12:25:59.945Z - debug:  
+2024-09-11T12:25:59.952Z - debug:  
+2024-09-11T12:25:59.953Z - debug:  
+2024-09-11T12:25:59.955Z - debug:  
+2024-09-11T12:25:59.955Z - debug:  
+2024-09-11T12:25:59.956Z - debug:  
+2024-09-11T12:25:59.956Z - debug:  
+2024-09-11T12:25:59.956Z - debug:  
+2024-09-11T12:25:59.956Z - debug:  
+2024-09-11T12:25:59.959Z - debug:  
+2024-09-11T12:25:59.961Z - debug:  
+2024-09-11T12:25:59.962Z - debug:  
+2024-09-11T12:25:59.962Z - debug:  
+2024-09-11T12:25:59.964Z - debug:  
+2024-09-11T12:25:59.965Z - debug:  
+2024-09-11T12:26:01.502Z - debug:  
+2024-09-11T12:26:06.907Z - debug:  
+2024-09-11T12:27:32.035Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-09-11T12:28:18.211Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-09-11T12:28:41.079Z - debug:  
+2024-09-11T12:28:59.148Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-09-11T12:29:00.366Z - debug:  
+2024-09-11T12:29:00.387Z - debug:  
+2024-09-11T12:29:13.354Z - info: Pages built
+2024-09-11T12:29:15.256Z - info: Site data built
+2024-09-11T12:29:15.256Z - info: Website generation complete! Total build time: 231.714s
+2024-09-11T12:29:15.257Z - info: Build success!
+2024-09-11T12:34:34.853Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
