@@ -29,6 +29,6 @@ with(this){return _c('div',{attrs:{"tags":"m--cs2113"}},[_c('p',[_c('strong',[_c
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/weeklySchedule.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" Weekly Schedule")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tutorials.html"}},[_c('span',[_v("Tutorials "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 16 Sept 2024, 22:37:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Mon, 16 Sept 2024, 22:54:58 GMT+8]")])])])}
 }];
   
