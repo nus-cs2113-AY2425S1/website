@@ -1,2 +1,40 @@
 2024-09-16T03:16:29.784Z - info: Website generation started at 11:16:16 am
 2024-09-16T03:16:35.047Z - info: Building assets...
+2024-09-16T03:16:39.717Z - info: Assets built
+2024-09-16T03:16:39.718Z - info: Generating pages...
+2024-09-16T03:16:51.971Z - debug:  
+2024-09-16T03:16:52.254Z - debug:  
+2024-09-16T03:16:52.273Z - debug:  
+2024-09-16T03:16:52.274Z - debug:  
+2024-09-16T03:16:52.274Z - debug:  
+2024-09-16T03:16:52.275Z - debug:  
+2024-09-16T03:16:52.286Z - debug:  
+2024-09-16T03:16:52.287Z - debug:  
+2024-09-16T03:16:52.287Z - debug:  
+2024-09-16T03:16:52.287Z - debug:  
+2024-09-16T03:16:52.288Z - debug:  
+2024-09-16T03:16:52.288Z - debug:  
+2024-09-16T03:16:52.288Z - debug:  
+2024-09-16T03:16:52.289Z - debug:  
+2024-09-16T03:16:52.289Z - debug:  
+2024-09-16T03:16:54.025Z - debug:  
+2024-09-16T03:16:57.783Z - debug:  
+2024-09-16T03:17:59.767Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-09-16T03:18:22.162Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-09-16T03:18:36.035Z - debug:  
+2024-09-16T03:18:43.734Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-09-16T03:18:46.438Z - debug:  
+2024-09-16T03:18:46.495Z - debug:  
+2024-09-16T03:18:54.606Z - info: Pages built
+2024-09-16T03:18:56.222Z - info: Site data built
+2024-09-16T03:18:56.222Z - info: Website generation complete! Total build time: 160.13s
+2024-09-16T03:18:56.223Z - info: Build success!
+2024-09-16T03:21:47.621Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
+2024-09-16T14:37:22.848Z - info: Website generation started at 10:37:10 pm
+2024-09-16T14:37:28.627Z - info: Building assets...
