@@ -20,6 +20,6 @@ with(this){return _c('ul',[_c('li',[_c('p',[_c('strong',[_v("Decide which of the
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("After the tutorial")]),_v(", if you are unsure about a concern raised by a reviewer, you can post in the "),_c('a',{attrs:{"href":"https://github.com/nus-cs2113-AY2425S1/forum/issues"}},[_v("forum")]),_v(" to seek the opinion of the teaching team.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 21 Sept 2024, 18:23:07 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Tue, 1 Oct 2024, 8:34:09 GMT+8]")])])])}
 }];
   
