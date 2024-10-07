@@ -1,0 +1,106 @@
+2024-10-07T09:25:39.951Z - info: Website generation started at 5:25:26 pm
+2024-10-07T09:25:49.124Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\book\_markbind\variables.md'
+2024-10-07T09:25:49.127Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\_markbind\variables.md'
+2024-10-07T09:25:49.175Z - info: Building assets...
+2024-10-07T09:26:46.001Z - info: Assets built
+2024-10-07T09:26:46.003Z - info: Generating pages...
+2024-10-07T09:27:03.348Z - debug:  
+2024-10-07T09:27:03.349Z - debug:  
+2024-10-07T09:27:03.350Z - debug:  
+2024-10-07T09:27:03.350Z - debug:  
+2024-10-07T09:27:03.690Z - debug:  
+2024-10-07T09:27:03.690Z - debug:  
+2024-10-07T09:27:03.691Z - debug:  
+2024-10-07T09:27:03.692Z - debug:  
+2024-10-07T09:27:03.692Z - debug:  
+2024-10-07T09:27:03.692Z - debug:  
+2024-10-07T09:27:03.693Z - debug:  
+2024-10-07T09:27:03.695Z - debug:  
+2024-10-07T09:27:03.695Z - debug:  
+2024-10-07T09:27:03.696Z - debug:  
+2024-10-07T09:27:03.696Z - debug:  
+2024-10-07T09:27:05.325Z - debug:  
+2024-10-07T09:27:09.690Z - debug:  
+2024-10-07T09:28:50.954Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:29:20.859Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:29:35.594Z - debug:  
+2024-10-07T09:29:48.650Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:29:51.369Z - debug:  
+2024-10-07T09:29:51.402Z - debug:  
+2024-10-07T09:30:01.611Z - info: Pages built
+2024-10-07T09:30:03.450Z - info: Site data built
+2024-10-07T09:30:03.452Z - info: Website generation complete! Total build time: 276.99s
+2024-10-07T09:30:03.758Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_site" at http://127.0.0.1:8080
+2024-10-07T09:30:03.758Z - info: Press CTRL+C to stop ...
+2024-10-07T09:31:10.925Z - info: [5:31:10 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_course-CS2113\weeklyIpTasks-fragment.md
+2024-10-07T09:31:12.068Z - info: Rebuilding 89 pages
+2024-10-07T09:31:29.090Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:32:46.294Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:32:51.375Z - info: [5:32:51 pm] Reload for file add: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w9.md
+2024-10-07T09:32:55.616Z - info: Pages or site config modified, updating pages...
+2024-10-07T09:32:58.041Z - info: [5:32:58 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w9.md
+2024-10-07T09:32:58.977Z - warn: Rebuilding all pages...
+2024-10-07T09:32:58.977Z - info: Generating pages...
+2024-10-07T09:32:59.493Z - info: Assets built
+2024-10-07T09:33:35.415Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:33:39.628Z - info: Site data built
+2024-10-07T09:33:39.629Z - info: Pages rebuilt
+2024-10-07T09:33:39.629Z - info: Website regeneration complete! Total build time: 147.694s
+2024-10-07T09:34:48.831Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:35:12.721Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:35:32.076Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:35:39.739Z - info: Pages built
+2024-10-07T09:39:34.841Z - info: [5:39:34 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_course-CS2113\weeklyIpTasks-fragment.md
+2024-10-07T09:39:35.909Z - info: Rebuilding 90 pages
+2024-10-07T09:39:40.161Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:40:12.181Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:40:30.197Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:40:32.318Z - info: Site data built
+2024-10-07T09:40:32.318Z - info: Pages rebuilt
+2024-10-07T09:40:32.318Z - info: Website regeneration complete! Total build time: 56.459s
+2024-10-07T09:41:18.235Z - info: [5:41:18 pm] Reload for file deletion: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w9.md
+2024-10-07T09:41:20.873Z - info: Pages or site config modified, updating pages...
+2024-10-07T09:41:23.085Z - debug: Assets removed
+2024-10-07T09:41:23.091Z - warn: Rebuilding all pages...
+2024-10-07T09:41:23.091Z - info: Generating pages...
+2024-10-07T09:41:30.702Z - info: [5:41:30 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_course-CS2113\weeklyIpTasks-fragment.md
+2024-10-07T09:41:31.762Z - info: Rebuilding 2 pages
+2024-10-07T09:41:32.647Z - info: Site data built
+2024-10-07T09:41:32.647Z - info: Pages rebuilt
+2024-10-07T09:41:32.648Z - info: Website regeneration complete! Total build time: 0.886s
+2024-10-07T09:43:04.056Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:43:30.855Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:43:50.607Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T09:43:59.161Z - info: Pages built
+2024-10-07T10:35:58.288Z - info: Website generation started at 6:35:14 pm
+2024-10-07T10:36:05.437Z - info: Building assets...
