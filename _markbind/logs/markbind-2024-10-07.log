@@ -104,3 +104,39 @@ Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
 2024-10-07T09:43:59.161Z - info: Pages built
 2024-10-07T10:35:58.288Z - info: Website generation started at 6:35:14 pm
 2024-10-07T10:36:05.437Z - info: Building assets...
+2024-10-07T10:36:10.553Z - info: Assets built
+2024-10-07T10:36:10.554Z - info: Generating pages...
+2024-10-07T10:36:27.316Z - debug:  
+2024-10-07T10:36:27.317Z - debug:  
+2024-10-07T10:36:27.318Z - debug:  
+2024-10-07T10:36:27.318Z - debug:  
+2024-10-07T10:36:27.319Z - debug:  
+2024-10-07T10:36:27.319Z - debug:  
+2024-10-07T10:36:27.319Z - debug:  
+2024-10-07T10:36:27.319Z - debug:  
+2024-10-07T10:36:27.320Z - debug:  
+2024-10-07T10:36:27.320Z - debug:  
+2024-10-07T10:36:27.320Z - debug:  
+2024-10-07T10:36:27.320Z - debug:  
+2024-10-07T10:36:27.569Z - debug:  
+2024-10-07T10:36:27.575Z - debug:  
+2024-10-07T10:36:27.575Z - debug:  
+2024-10-07T10:36:29.011Z - debug:  
+2024-10-07T10:36:33.266Z - debug:  
+2024-10-07T10:38:01.004Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T10:38:32.532Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T10:38:48.711Z - debug:  
+2024-10-07T10:39:01.061Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-07T10:39:04.830Z - debug:  
+2024-10-07T10:39:04.881Z - debug:  
+2024-10-07T10:39:14.942Z - info: Pages built
+2024-10-07T10:39:16.511Z - info: Site data built
+2024-10-07T10:39:16.512Z - info: Website generation complete! Total build time: 241.692s
+2024-10-07T10:39:16.512Z - info: Build success!
+2024-10-07T11:10:50.607Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
