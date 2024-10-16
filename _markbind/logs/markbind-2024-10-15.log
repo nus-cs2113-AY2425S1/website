@@ -1,2 +1,235 @@
 2024-10-14T16:30:16.656Z - info: Website generation started at 12:30:03 am
 2024-10-14T16:30:22.035Z - info: Building assets...
+2024-10-14T16:30:25.954Z - info: Assets built
+2024-10-14T16:30:25.955Z - info: Generating pages...
+2024-10-14T16:30:37.796Z - debug:  
+2024-10-14T16:30:37.797Z - debug:  
+2024-10-14T16:30:37.797Z - debug:  
+2024-10-14T16:30:37.798Z - debug:  
+2024-10-14T16:30:38.039Z - debug:  
+2024-10-14T16:30:38.041Z - debug:  
+2024-10-14T16:30:38.042Z - debug:  
+2024-10-14T16:30:38.047Z - debug:  
+2024-10-14T16:30:38.054Z - debug:  
+2024-10-14T16:30:38.055Z - debug:  
+2024-10-14T16:30:38.056Z - debug:  
+2024-10-14T16:30:38.059Z - debug:  
+2024-10-14T16:30:38.060Z - debug:  
+2024-10-14T16:30:38.060Z - debug:  
+2024-10-14T16:30:38.060Z - debug:  
+2024-10-14T16:30:39.023Z - debug:  
+2024-10-14T16:30:42.286Z - debug:  
+2024-10-14T16:31:44.471Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-14T16:31:54.888Z - error:  Error: No such file: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w9.md
+Missing reference in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week9\project.md
+    at _checkAndWarnFileExists (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:57:23)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:186:24)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:370:42
+    at Array.map (<anonymous>)
+    at DomHandler._callback (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:367:43)
+2024-10-14T16:31:55.065Z - error:  Error: No such file: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w9.md
+Missing reference in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week9\project.md
+    at _checkAndWarnFileExists (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:57:23)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:186:24)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:370:42
+    at Array.map (<anonymous>)
+    at DomHandler._callback (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:367:43)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:340:36)
+2024-10-14T16:32:04.969Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-14T16:32:05.987Z - error:  Error: No such file: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w9.md
+Missing reference in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week9\project.md
+    at _checkAndWarnFileExists (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:57:23)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:186:24)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+2024-10-14T16:32:12.834Z - debug:  
+2024-10-14T16:32:14.852Z - error:  Error: No such file: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\ip-w9.md
+Missing reference in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week9\project.md
+    at _checkAndWarnFileExists (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:57:23)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:186:24)
+    at NodeProcessor.processNode (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:173:71)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:342:24)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:346:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:345:27)
+2024-10-14T16:32:26.068Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-14T16:32:27.708Z - debug:  
+2024-10-14T16:32:27.741Z - debug:  
+2024-10-14T16:32:33.853Z - info: Pages built
+2024-10-14T16:32:35.677Z - info: Site data built
+2024-10-14T16:32:35.678Z - info: Website generation complete! Total build time: 152.554s
+2024-10-14T16:32:35.679Z - info: Build success!
+2024-10-14T16:37:15.774Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
+2024-10-14T17:08:47.218Z - info: Website generation started at 1:08:36 am
+2024-10-14T17:08:50.965Z - info: Building assets...
+2024-10-14T17:08:54.314Z - info: Assets built
+2024-10-14T17:08:54.315Z - info: Generating pages...
+2024-10-14T17:09:06.954Z - debug:  
+2024-10-14T17:09:06.955Z - debug:  
+2024-10-14T17:09:06.956Z - debug:  
+2024-10-14T17:09:06.957Z - debug:  
+2024-10-14T17:09:06.958Z - debug:  
+2024-10-14T17:09:06.959Z - debug:  
+2024-10-14T17:09:06.959Z - debug:  
+2024-10-14T17:09:07.197Z - debug:  
+2024-10-14T17:09:07.197Z - debug:  
+2024-10-14T17:09:07.198Z - debug:  
+2024-10-14T17:09:07.198Z - debug:  
+2024-10-14T17:09:07.202Z - debug:  
+2024-10-14T17:09:07.203Z - debug:  
+2024-10-14T17:09:07.214Z - debug:  
+2024-10-14T17:09:07.217Z - debug:  
+2024-10-14T17:09:08.387Z - debug:  
+2024-10-14T17:09:12.355Z - debug:  
+2024-10-14T17:10:10.534Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-14T17:10:32.906Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-14T17:10:43.020Z - debug:  
+2024-10-14T17:10:51.312Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-14T17:10:54.209Z - debug:  
+2024-10-14T17:10:54.244Z - debug:  
+2024-10-14T17:11:00.139Z - info: Pages built
+2024-10-14T17:11:01.614Z - info: Site data built
+2024-10-14T17:11:01.614Z - info: Website generation complete! Total build time: 145.069s
+2024-10-14T17:11:01.614Z - info: Build success!
+2024-10-14T17:11:48.348Z - error: uncaughtException:       0 [main] sh (31224) C:\Program Files\Git\usr\bin\sh.exe: *** fatal error - add_item ("\??\C:\Program Files\Git", "/", ...) failed, errno 1
+Stack trace:
+Frame         Function      Args
+0007FFFFABC0  00021005FEBA (000210288F1A, 00021026AB81, 000000008000, 0007FFFF8B30) msys-2.0.dll+0x1FEBA
+0007FFFFABC0  0002100467F9 (0007FFFFABF0, 0007FFFFABC0, 000000000000, 000000000000) msys-2.0.dll+0x67F9
+0007FFFFABC0  000210046832 (0007FFFF9BC0, 000000000001, 000000008000, 000000000001) msys-2.0.dll+0x6832
+0007FFFFABC0  00021007D04A (000700000000, 000000000000, 0007FFFFCC18, 0007FFFFCD30) msys-2.0.dll+0x3D04A
+1DB1E5C1E3C8980  00021017F015 (000000000000, 000000000000, 000000000208, 000000000000) msys-2.0.dll+0x13F015
+0007FFFFCD30  000210046E6A (000000000000, 000000000000, 000000000000, 000000000000) msys-2.0.dll+0x6E6A
+000000000000  000210045AC3 (000000000000, 000000000000, 000000000000, 000000000000) msys-2.0.dll+0x5AC3
+0007FFFFFFF0  000210045B74 (000000000000, 000000000000, 000000000000, 000000000000) msys-2.0.dll+0x5B74
+End of stack trace
+Loaded modules:
+000100400000 sh.exe
+7FFACDB50000 ntdll.dll
+7FFACCFB0000 KERNEL32.DLL
+7FFACAF80000 KERNELBASE.dll
+7FFACD7E0000 USER32.dll
+7FFACB510000 win32u.dll
+7FFACDAA0000 GDI32.dll
+7FFACB730000 gdi32full.dll
+7FFACB340000 msvcp_win.dll
+7FFACAE60000 ucrtbase.dll
+000210040000 msys-2.0.dll
+7FFACD080000 advapi32.dll
+7FFACB930000 msvcrt.dll
+7FFACBA20000 sechost.dll
+7FFACB850000 bcrypt.dll
+7FFACBAD0000 RPCRT4.dll
+7FFACA640000 CRYPTBASE.DLL
+7FFACB6B0000 bcryptPrimitives.dll
+7FFACB9E0000 IMM32.DLL
+7FFAB7450000 TmUmEvt64.dll
+7FFACC1E0000 PSAPI.DLL
+0000508B0000 tmmon64.dll
+7FFAB3E00000 TmUmSnsr64.dll
+7FFAC9D80000 kernel.appcore.dll
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ date=Tue Oct 15 2024 01:11:48 GMT+0800 (Singapore Standard Time), pid=33812, uid=null, gid=null, cwd=D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website, execPath=C:\Program Files\nodejs\node.exe, version=v18.17.1, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=462716928, heapTotal=581337088, heapUsed=332753688, external=990180, arrayBuffers=43825, loadavg=[0, 0, 0], uptime=126432.187
+ProcessError:       0 [main] sh (31224) C:\Program Files\Git\usr\bin\sh.exe: *** fatal error - add_item ("\??\C:\Program Files\Git", "/", ...) failed, errno 1
+Stack trace:
+Frame         Function      Args
+0007FFFFABC0  00021005FEBA (000210288F1A, 00021026AB81, 000000008000, 0007FFFF8B30) msys-2.0.dll+0x1FEBA
+0007FFFFABC0  0002100467F9 (0007FFFFABF0, 0007FFFFABC0, 000000000000, 000000000000) msys-2.0.dll+0x67F9
+0007FFFFABC0  000210046832 (0007FFFF9BC0, 000000000001, 000000008000, 000000000001) msys-2.0.dll+0x6832
+0007FFFFABC0  00021007D04A (000700000000, 000000000000, 0007FFFFCC18, 0007FFFFCD30) msys-2.0.dll+0x3D04A
+1DB1E5C1E3C8980  00021017F015 (000000000000, 000000000000, 000000000208, 000000000000) msys-2.0.dll+0x13F015
+0007FFFFCD30  000210046E6A (000000000000, 000000000000, 000000000000, 000000000000) msys-2.0.dll+0x6E6A
+000000000000  000210045AC3 (000000000000, 000000000000, 000000000000, 000000000000) msys-2.0.dll+0x5AC3
+0007FFFFFFF0  000210045B74 (000000000000, 000000000000, 000000000000, 000000000000) msys-2.0.dll+0x5B74
+End of stack trace
+Loaded modules:
+000100400000 sh.exe
+7FFACDB50000 ntdll.dll
+7FFACCFB0000 KERNEL32.DLL
+7FFACAF80000 KERNELBASE.dll
+7FFACD7E0000 USER32.dll
+7FFACB510000 win32u.dll
+7FFACDAA0000 GDI32.dll
+7FFACB730000 gdi32full.dll
+7FFACB340000 msvcp_win.dll
+7FFACAE60000 ucrtbase.dll
+000210040000 msys-2.0.dll
+7FFACD080000 advapi32.dll
+7FFACB930000 msvcrt.dll
+7FFACBA20000 sechost.dll
+7FFACB850000 bcrypt.dll
+7FFACBAD0000 RPCRT4.dll
+7FFACA640000 CRYPTBASE.DLL
+7FFACB6B0000 bcryptPrimitives.dll
+7FFACB9E0000 IMM32.DLL
+7FFAB7450000 TmUmEvt64.dll
+7FFACC1E0000 PSAPI.DLL
+0000508B0000 tmmon64.dll
+7FFAB3E00000 TmUmSnsr64.dll
+7FFAC9D80000 kernel.appcore.dll
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+    at ChildProcess.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:302:5)
