@@ -17,6 +17,6 @@ with(this){return _c('p',[_c('strong',[_v("Most course briefing videos are categ
 with(this){return _c('p',[_c('strong',[_v("They are listed below for reference only.")]),_v(" When it is time for you to watch a certain course briefing video, it will appear in the current schedule page of the course website."),_c('br'),_v(" "),_c('strong',[_v("We track their viewership")]),_v(" and remind when you don't watch them on time.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 16 Oct 2024, 22:52:34 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 16 Oct 2024, 23:18:29 GMT+8]")])])])}
 }];
   
