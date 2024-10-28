@@ -25,3 +25,39 @@
 2024-10-22T16:06:04.951Z - info: Lazy website regeneration complete! Total build time: 0.829s
 2024-10-22T16:09:25.277Z - info: Website generation started at 12:08:51 am
 2024-10-22T16:09:31.008Z - info: Building assets...
+2024-10-22T16:09:35.566Z - info: Assets built
+2024-10-22T16:09:35.567Z - info: Generating pages...
+2024-10-22T16:09:46.203Z - debug:  
+2024-10-22T16:09:46.204Z - debug:  
+2024-10-22T16:09:46.204Z - debug:  
+2024-10-22T16:09:46.205Z - debug:  
+2024-10-22T16:09:46.459Z - debug:  
+2024-10-22T16:09:46.466Z - debug:  
+2024-10-22T16:09:46.466Z - debug:  
+2024-10-22T16:09:46.466Z - debug:  
+2024-10-22T16:09:46.466Z - debug:  
+2024-10-22T16:09:46.467Z - debug:  
+2024-10-22T16:09:46.467Z - debug:  
+2024-10-22T16:09:46.469Z - debug:  
+2024-10-22T16:09:46.470Z - debug:  
+2024-10-22T16:09:46.477Z - debug:  
+2024-10-22T16:09:46.478Z - debug:  
+2024-10-22T16:09:47.666Z - debug:  
+2024-10-22T16:09:51.114Z - debug:  
+2024-10-22T16:11:07.032Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-22T16:11:40.996Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-22T16:12:37.847Z - debug:  
+2024-10-22T16:12:56.573Z - error: Invalid HTML in D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-10-22T16:12:58.439Z - debug:  
+2024-10-22T16:12:58.444Z - debug:  
+2024-10-22T16:13:12.102Z - info: Pages built
+2024-10-22T16:13:13.877Z - info: Site data built
+2024-10-22T16:13:13.877Z - info: Website generation complete! Total build time: 262.348s
+2024-10-22T16:13:13.877Z - info: Build success!
+2024-10-22T16:20:22.169Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
