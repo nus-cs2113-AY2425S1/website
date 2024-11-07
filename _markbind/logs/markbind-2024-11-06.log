@@ -1,0 +1,44 @@
+2024-11-05T18:11:08.554Z - info: Website generation started at 2:10:44 am
+2024-11-05T18:11:20.373Z - info: Building assets...
+2024-11-05T18:11:28.999Z - info: Assets built
+2024-11-05T18:11:29.001Z - info: Generating pages...
+2024-11-05T18:11:53.872Z - debug:  
+2024-11-05T18:11:53.874Z - debug:  
+2024-11-05T18:11:53.875Z - debug:  
+2024-11-05T18:11:53.876Z - debug:  
+2024-11-05T18:11:53.877Z - debug:  
+2024-11-05T18:11:53.879Z - debug:  
+2024-11-05T18:11:53.879Z - debug:  
+2024-11-05T18:11:53.880Z - debug:  
+2024-11-05T18:11:53.880Z - debug:  
+2024-11-05T18:11:53.881Z - debug:  
+2024-11-05T18:11:53.882Z - debug:  
+2024-11-05T18:11:53.883Z - debug:  
+2024-11-05T18:11:53.883Z - debug:  
+2024-11-05T18:11:53.883Z - debug:  
+2024-11-05T18:11:53.883Z - debug:  
+2024-11-05T18:11:58.000Z - debug:  
+2024-11-05T18:12:07.036Z - debug:  
+2024-11-05T18:18:10.430Z - debug:  
+2024-11-05T18:19:11.484Z - debug:  
+2024-11-05T18:19:11.510Z - debug:  
+2024-11-05T18:19:39.005Z - info: Pages built
+2024-11-05T18:19:41.126Z - info: Site data built
+2024-11-05T18:19:41.127Z - info: Website generation complete! Total build time: 536.372s
+2024-11-05T18:19:41.128Z - info: Build success!
+2024-11-06T09:26:31.557Z - error: uncaughtException: error: RPC failed; curl 6 Could not resolve host: github.com
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+ date=Wed Nov 06 2024 17:26:31 GMT+0800 (Singapore Standard Time), pid=28660, uid=null, gid=null, cwd=D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website, execPath=C:\Program Files\nodejs\node.exe, version=v18.17.1, argv=[C:\Program Files\nodejs\node.exe, C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\index.js, deploy], rss=457568256, heapTotal=484921344, heapUsed=324325912, external=14294240, arrayBuffers=13347885, loadavg=[0, 0, 0], uptime=189594.375
+ProcessError: error: RPC failed; curl 6 Could not resolve host: github.com
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+    at ChildProcess.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\lib\git.js:42:16)
+    at ChildProcess.emit (node:events:514:28)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:514:28)
+    at Pipe.<anonymous> (node:net:323:12)
