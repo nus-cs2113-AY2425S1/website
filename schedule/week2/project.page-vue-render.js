@@ -32,6 +32,6 @@ with(this){return _c('li',[_c('strong',[_v("Clone the fork")]),_v(" onto your co
 with(this){return _c('li',[_c('strong',[_v("Set up the project in your IDE")]),_v(" as explained in "),_c('a',{attrs:{"href":"https://github.com/nus-cs2113-AY2425S1/ip/blob/master/README.md"}},[_v("the README file")]),_v(", if you plan to use an IDE for the project.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Tue, 12 Nov 2024, 23:07:40 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 13 Nov 2024, 0:02:36 GMT+8]")])])])}
 }];
   
