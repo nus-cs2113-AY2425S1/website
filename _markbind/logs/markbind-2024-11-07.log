@@ -1,2 +1,29 @@
 2024-11-07T05:21:17.098Z - info: Website generation started at 1:20:58 pm
 2024-11-07T05:21:27.152Z - info: Building assets...
+2024-11-07T05:21:33.605Z - info: Assets built
+2024-11-07T05:21:33.606Z - info: Generating pages...
+2024-11-07T05:21:53.752Z - debug:  
+2024-11-07T05:21:53.753Z - debug:  
+2024-11-07T05:21:53.753Z - debug:  
+2024-11-07T05:21:53.753Z - debug:  
+2024-11-07T05:21:53.754Z - debug:  
+2024-11-07T05:21:53.754Z - debug:  
+2024-11-07T05:21:53.755Z - debug:  
+2024-11-07T05:21:53.755Z - debug:  
+2024-11-07T05:21:53.755Z - debug:  
+2024-11-07T05:21:53.755Z - debug:  
+2024-11-07T05:21:53.766Z - debug:  
+2024-11-07T05:21:53.795Z - debug:  
+2024-11-07T05:21:53.795Z - debug:  
+2024-11-07T05:21:53.796Z - debug:  
+2024-11-07T05:21:53.796Z - debug:  
+2024-11-07T05:21:55.880Z - debug:  
+2024-11-07T05:22:00.632Z - debug:  
+2024-11-07T05:25:26.703Z - debug:  
+2024-11-07T05:26:03.070Z - debug:  
+2024-11-07T05:26:03.119Z - debug:  
+2024-11-07T05:26:16.214Z - info: Pages built
+2024-11-07T05:26:17.883Z - info: Site data built
+2024-11-07T05:26:17.884Z - info: Website generation complete! Total build time: 319.228s
+2024-11-07T05:26:17.884Z - info: Build success!
+2024-11-07T05:29:07.070Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website

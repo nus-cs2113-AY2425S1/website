@@ -1,0 +1,224 @@
+2024-11-12T14:35:56.879Z - info: Website generation (lazy) started at 10:35:40 pm
+2024-11-12T14:36:03.569Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\book\_markbind\variables.md'
+2024-11-12T14:36:03.572Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\_markbind\variables.md'
+2024-11-12T14:36:03.650Z - info: Building assets...
+2024-11-12T14:37:21.543Z - info: Assets built
+2024-11-12T14:37:21.544Z - info: Generating landing page...
+2024-11-12T14:37:22.999Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-12T14:37:24.592Z - info: Site data built
+2024-11-12T14:37:24.593Z - info: Website generation (lazy) complete! Total build time: 104.581s
+2024-11-12T14:37:24.889Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_site" at http://127.0.0.1:8080
+2024-11-12T14:37:24.890Z - info: Press CTRL+C to stop ...
+2024-11-12T14:37:34.816Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project as some of its dependencies were changed since the last visit
+2024-11-12T14:37:40.157Z - info: Site data built
+2024-11-12T14:37:40.158Z - info: Lazy website regeneration complete! Total build time: 5.342s
+2024-11-12T14:39:01.874Z - info: [10:39:01 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe-fragment.md
+2024-11-12T14:39:01.875Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:39:02.014Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:39:02.020Z - info: 1. schedule/week13/project
+2024-11-12T14:39:03.048Z - info: Rebuilding 1 pages
+2024-11-12T14:39:09.283Z - info: Site data built
+2024-11-12T14:39:09.284Z - info: Pages rebuilt
+2024-11-12T14:39:09.285Z - info: Website regeneration complete! Total build time: 6.249s
+2024-11-12T14:39:51.409Z - info: [10:39:51 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe-fragment.md
+2024-11-12T14:39:51.409Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:39:51.410Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:39:51.410Z - info: 1. schedule/week13/project
+2024-11-12T14:39:52.425Z - info: Rebuilding 1 pages
+2024-11-12T14:39:55.354Z - info: Site data built
+2024-11-12T14:39:55.355Z - info: Pages rebuilt
+2024-11-12T14:39:55.355Z - info: Website regeneration complete! Total build time: 2.932s
+2024-11-12T14:40:37.721Z - info: [10:40:37 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe-fragment.md
+2024-11-12T14:40:37.722Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:40:37.722Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:40:37.723Z - info: 1. schedule/week13/project
+2024-11-12T14:40:38.741Z - info: Rebuilding 1 pages
+2024-11-12T14:40:41.115Z - info: Site data built
+2024-11-12T14:40:41.116Z - info: Pages rebuilt
+2024-11-12T14:40:41.116Z - info: Website regeneration complete! Total build time: 2.376s
+2024-11-12T14:40:52.197Z - info: [10:40:52 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe-fragment.md
+2024-11-12T14:40:52.198Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:40:52.199Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:40:52.199Z - info: 1. schedule/week13/project
+2024-11-12T14:40:53.207Z - info: Rebuilding 1 pages
+2024-11-12T14:40:55.963Z - info: Site data built
+2024-11-12T14:40:55.964Z - info: Pages rebuilt
+2024-11-12T14:40:55.964Z - info: Website regeneration complete! Total build time: 2.758s
+2024-11-12T14:46:29.285Z - info: [10:46:29 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_course-CS2113\weeklyTpTasks-fragment.md
+2024-11-12T14:46:29.285Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:46:29.286Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:46:29.286Z - info: 1. schedule/week13/project
+2024-11-12T14:46:30.299Z - info: Rebuilding 1 pages
+2024-11-12T14:46:30.543Z - error:  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md) [Line 51, Column 9]
+  parseAggregate: expected comma after expression
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:527:18), <anonymous>:29:3)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at Page.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:494:45)
+    at Generator.next (<anonymous>)
+2024-11-12T14:46:30.545Z - warn:  Error: Error while generating D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project.md
+    at Site.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:927:27)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:29:65)
+2024-11-12T14:48:48.769Z - info: Website generation (lazy) started at 10:48:19 pm
+2024-11-12T14:48:55.902Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\book\_markbind\variables.md'
+2024-11-12T14:48:55.905Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\_markbind\variables.md'
+2024-11-12T14:48:55.977Z - info: Building assets...
+2024-11-12T14:49:48.002Z - info: Assets built
+2024-11-12T14:49:48.005Z - info: Generating landing page...
+2024-11-12T14:49:48.462Z - error:  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\index.md) [Line 51, Column 9]
+  parseAggregate: expected comma after expression
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:527:18), <anonymous>:627:3)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:231:38)
+    at processInclude (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:198:68)
+2024-11-12T14:49:48.887Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-12T14:49:50.504Z - info: Site data built
+2024-11-12T14:49:50.505Z - info: Website generation (lazy) complete! Total build time: 91.147s
+2024-11-12T14:49:50.594Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_site" at http://127.0.0.1:8080
+2024-11-12T14:49:50.595Z - info: Press CTRL+C to stop ...
+2024-11-12T14:50:29.662Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index as some of its dependencies were changed since the last visit
+2024-11-12T14:50:29.809Z - error:  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md)
+  Template render error: (D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md) [Line 51, Column 9]
+  parseAggregate: expected comma after expression
+    at Object._prettifyError (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:32:11)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:527:18), <anonymous>:29:3)
+    at Template.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:372:8)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:258:7)
+    at Object.asyncIter (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:263:3)
+    at Environment.getTemplate (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:154:57)
+    at Page.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:494:45)
+    at Generator.next (<anonymous>)
+2024-11-12T14:50:29.810Z - warn:  Error: Error while generating D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\index.md
+    at Site.<anonymous> (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:971:28)
+    at Generator.throw (<anonymous>)
+    at rejected (C:\Users\dcsaksh\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:29:65)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-12T14:50:44.132Z - info: [10:50:44 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_course-CS2113\weeklyTpTasks-fragment.md
+2024-11-12T14:50:44.133Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:50:44.134Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:50:44.136Z - info: 1. schedule/week13/index
+2024-11-12T14:50:45.149Z - info: No pages needed to be rebuilt
+2024-11-12T14:51:46.775Z - info: Website generation (lazy) started at 10:51:46 pm
+2024-11-12T14:51:54.595Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\book\_markbind\variables.md'
+2024-11-12T14:51:54.598Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\_markbind\variables.md'
+2024-11-12T14:51:54.652Z - info: Building assets...
+2024-11-12T14:52:36.911Z - info: Assets built
+2024-11-12T14:52:36.913Z - info: Generating landing page...
+2024-11-12T14:52:38.554Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-12T14:52:40.454Z - info: Site data built
+2024-11-12T14:52:40.454Z - info: Website generation (lazy) complete! Total build time: 53.751s
+2024-11-12T14:52:40.529Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_site" at http://127.0.0.1:8080
+2024-11-12T14:52:40.529Z - info: Press CTRL+C to stop ...
+2024-11-12T14:52:50.712Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project as some of its dependencies were changed since the last visit
+2024-11-12T14:52:58.974Z - info: Site data built
+2024-11-12T14:52:58.976Z - info: Lazy website regeneration complete! Total build time: 8.263s
+2024-11-12T14:56:13.260Z - info: [10:56:13 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe-fragment.md
+2024-11-12T14:56:13.261Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:56:13.261Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:56:13.262Z - info: 1. schedule/week13/project
+2024-11-12T14:56:14.270Z - info: Rebuilding 1 pages
+2024-11-12T14:56:19.189Z - info: Site data built
+2024-11-12T14:56:19.190Z - info: Pages rebuilt
+2024-11-12T14:56:19.191Z - info: Website regeneration complete! Total build time: 4.923s
+2024-11-12T14:56:39.585Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\index as some of its dependencies were changed since the last visit
+2024-11-12T14:56:40.277Z - info: Site data built
+2024-11-12T14:56:40.278Z - info: Lazy website regeneration complete! Total build time: 0.694s
+2024-11-12T14:56:47.577Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe as some of its dependencies were changed since the last visit
+2024-11-12T14:56:49.076Z - info: Site data built
+2024-11-12T14:56:49.077Z - info: Lazy website regeneration complete! Total build time: 1.5s
+2024-11-12T14:58:11.666Z - info: [10:58:11 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe-fragment.md
+2024-11-12T14:58:11.667Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:58:11.667Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:58:11.667Z - info: 1. admin/tp-pe
+2024-11-12T14:58:12.678Z - info: Rebuilding 1 pages
+2024-11-12T14:58:14.537Z - info: Site data built
+2024-11-12T14:58:14.537Z - info: Pages rebuilt
+2024-11-12T14:58:14.538Z - info: Website regeneration complete! Total build time: 1.86s
+2024-11-12T14:58:21.594Z - info: [10:58:21 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\tp-pe-fragment.md
+2024-11-12T14:58:21.594Z - info: Synchronizing opened pages list before reload
+2024-11-12T14:58:21.595Z - info: Current opened pages, from most-to-least recent:
+2024-11-12T14:58:21.595Z - info: 1. admin/tp-pe
+2024-11-12T14:58:22.608Z - info: Rebuilding 1 pages
+2024-11-12T14:58:24.058Z - info: Site data built
+2024-11-12T14:58:24.059Z - info: Pages rebuilt
+2024-11-12T14:58:24.059Z - info: Website regeneration complete! Total build time: 1.453s
+2024-11-12T14:58:56.694Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\schedule\week13\project as some of its dependencies were changed since the last visit
+2024-11-12T14:59:03.229Z - info: Site data built
+2024-11-12T14:59:03.230Z - info: Lazy website regeneration complete! Total build time: 6.536s
+2024-11-12T15:07:30.576Z - info: Website generation started at 11:06:56 pm
+2024-11-12T15:07:35.654Z - info: Building assets...
