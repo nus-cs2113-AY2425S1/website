@@ -2225,10 +2225,10 @@ Reminder: double-check to ensure the code attributed to you by RepoSense is corr
 {{ embed_topic("tp-pe-fragment.md#pe-phases", "Admin " + icon_embedding + " tP → **PE Phases**", "3", indent="1", type="success") }}
 </div>
 {#====================================================================================================================#}
-<span id="heading_attend_the_makeup_PE">{{ icon_individual }} %%[if needed] Attend the makeup practical exam%%</span>
+<span id="heading_attend_the_makeup_PE">{{ icon_individual }} %%[if needed] Attend the backup practical exam%%</span>
 <div id="desc_attend_the_makeup_PE">
 
-* In the very unlikely event that the PE had to be cancelled due to technical issues, attend the makeup PE on this day.
+* In the very unlikely event that the PE had to be cancelled due to technical issues, attend the backup PE on this day.
 * Note: This is <span class="text-danger">not an alternative option for students who could not attend the PE</span>, as all students need to do the PE at the same time.
 </div>
 {#====================================================================================================================#}
