@@ -1,0 +1,27 @@
+2024-11-25T15:26:21.324Z - info: Website generation (lazy) started at 11:26:03 pm
+2024-11-25T15:26:37.748Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\book\_markbind\variables.md'
+2024-11-25T15:26:37.751Z - warn: ENOENT: no such file or directory, open 'D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\_markbind\variables.md'
+2024-11-25T15:26:37.946Z - info: Building assets...
+2024-11-25T15:27:46.690Z - info: Assets built
+2024-11-25T15:27:46.696Z - info: Generating landing page...
+2024-11-25T15:27:50.546Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-25T15:27:52.582Z - info: Site data built
+2024-11-25T15:27:52.584Z - info: Website generation (lazy) complete! Total build time: 109.305s
+2024-11-25T15:27:52.814Z - info: Serving "D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\_site" at http://127.0.0.1:8080
+2024-11-25T15:27:52.815Z - info: Press CTRL+C to stop ...
+2024-11-25T15:28:06.793Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\index as some of its dependencies were changed since the last visit
+2024-11-25T15:28:13.535Z - info: Site data built
+2024-11-25T15:28:13.537Z - info: Lazy website regeneration complete! Total build time: 6.751s
+2024-11-25T15:31:02.675Z - info: Building D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\exams as some of its dependencies were changed since the last visit
+2024-11-25T15:31:03.624Z - info: Site data built
+2024-11-25T15:31:03.626Z - info: Lazy website regeneration complete! Total build time: 0.953s
+2024-11-25T15:31:45.989Z - info: [11:31:45 pm] Reload for file change: D:\AkshayNarayan\Teaching\CS2113\_AY2425Sem1\ay2425s1-website\admin\exams.md
+2024-11-25T15:31:45.990Z - info: Synchronizing opened pages list before reload
+2024-11-25T15:31:45.991Z - info: Current opened pages, from most-to-least recent:
+2024-11-25T15:31:45.992Z - info: 1. admin/exams
+2024-11-25T15:31:47.000Z - info: Rebuilding 1 pages
+2024-11-25T15:31:48.097Z - info: Site data built
+2024-11-25T15:31:48.098Z - info: Pages rebuilt
+2024-11-25T15:31:48.099Z - info: Website regeneration complete! Total build time: 1.101s
+2024-11-25T15:34:09.161Z - info: Website generation started at 11:33:18 pm
+2024-11-25T15:34:15.724Z - info: Building assets...
